@@ -6,7 +6,7 @@ weight: 2
 
 
 # Schedule
-\* Note: Here is the plan for the semester. The schedule is tentative and subject to change. 
+\* Note: Here is the plan for the semester. It is subject to change. 
 
 
 | Date        | Lecture                                               | Resources | Notes                                 |

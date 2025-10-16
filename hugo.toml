@@ -1,6 +1,6 @@
-baseURL = 'https://wisc-rt2.github.io/cs639_fall25/'
+baseURL = 'https://wisc-rt2.github.io/cs839_spring25/'
 languageCode = 'en-us'
-title = "CS639 Introduction to Robotic Systems"
+title = "CS839 Topics in Advanced Robotics"
 theme = "hugo-book"
 publishDir = "docs"
 
