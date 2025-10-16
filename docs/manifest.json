@@ -1,0 +1,15 @@
+{
+  "name": "CS639 Introduction to Robotic Systems",
+  "short_name": "CS639 Introduction to Robotic Systems",
+  "start_url": "/cs639_fall25/",
+  "scope": "/cs639_fall25/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/cs639_fall25/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
