@@ -1,14 +1,14 @@
 {
-  "name": "CS639 Introduction to Robotic Systems",
-  "short_name": "CS639 Introduction to Robotic Systems",
-  "start_url": "/cs639_fall25/",
-  "scope": "/cs639_fall25/",
+  "name": "CS839 Topics in Advanced Robotics",
+  "short_name": "CS839 Topics in Advanced Robotics",
+  "start_url": "/cs839_spring25/",
+  "scope": "/cs839_spring25/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/cs639_fall25/favicon.svg",
+      "src": "/cs839_spring25/favicon.svg",
       "sizes": "512x512"
     }
   ]

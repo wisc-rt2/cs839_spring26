@@ -1,201 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on CS639 Introduction to Robotic Systems</title><link>https://wisc-rt2.github.io/cs639_fall25/docs/</link><description>Recent content in Docs on CS639 Introduction to Robotic Systems</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://wisc-rt2.github.io/cs639_fall25/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Syllabus</title><link>https://wisc-rt2.github.io/cs639_fall25/docs/syllabus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs639_fall25/docs/syllabus/</guid><description>&lt;h1 id="syllabus">
- Syllabus
- &lt;a class="anchor" href="#syllabus">#&lt;/a>
-&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on CS839 Topics in Advanced Robotics</title><link>https://wisc-rt2.github.io/cs839_spring25/docs/</link><description>Recent content in Docs on CS839 Topics in Advanced Robotics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://wisc-rt2.github.io/cs839_spring25/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Syllabus</title><link>https://wisc-rt2.github.io/cs839_spring25/docs/syllabus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring25/docs/syllabus/</guid><description>&lt;h1 id="syllabus">Syllabus&lt;a class="anchor" href="#syllabus">#&lt;/a>&lt;/h1>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; border: 2px solid #8E1E24; border-radius: 8px;">
- &lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vTulXe5WoT27izojEb9VAdKMueaU_yPjLd85uH2uNiWlbnhT-oW_EmCMBU6PUtNOg/pub?embedded=true" 
+ &lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vQBPr1NEDQOBEhoAgO3jIhy0ZIjyRSDh5peTn_rMiOJdKEZ_qjPzsY73UF3Aiunbg/pub?embedded=true" 
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;" 
  frameborder="0">&lt;/iframe>
 &lt;/div>
 &lt;br>
-&lt;a href="https://docs.google.com/document/d/1GKTl9HBAv75c15M3w8sK2V1KSGoZVNce/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true">Link to syllabus.&lt;/a></description></item><item><title>Schedule</title><link>https://wisc-rt2.github.io/cs639_fall25/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs639_fall25/docs/schedule/</guid><description>&lt;h1 id="schedule">
- Schedule
- &lt;a class="anchor" href="#schedule">#&lt;/a>
-&lt;/h1>
-&lt;p>* Note: Here is the plan for the semester. The schedule is tentative and subject to change.&lt;/p>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Date&lt;/th>
- &lt;th>Lecture&lt;/th>
- &lt;th>Resources&lt;/th>
- &lt;th>Notes&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Thu, 9/4&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1cmQ6--_u4iUSh1u46t5s-vApfe7XK76I/view?usp=sharing">1: Course Overview and ‘What is a Robot’&lt;/a>&lt;/td>
- &lt;td>N/A&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 9/9&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1yzPN53vMFrPtGckjmMJbU-0kcfkSHPmD/view?usp=sharing">2: Mechanisms and Configuration Spaces&lt;/a>&lt;/td>
- &lt;td>MR 2.1-2.3, 2.5&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 9/11&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/12n-BXSgS8zPDU64RCwD0Y4aY3XjkX4_T/view?usp=sharing">3: Rigid Body Motion - 2D and Rotation Matrices&lt;/a>&lt;/td>
- &lt;td>MR 3.1-3.2&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1BTf7kb2NMIz5frHMignMo4uc3b7s1OjF/view?usp=sharing">HW1 Released&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 9/16&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1-dqlIbpwp52Ejw4dKoBxmobe7P56vIH9/view?usp=sharing">4: Rigid Body Motion (3D) - Euler Angles and Axis-Angle&lt;/a>&lt;/td>
- &lt;td>MR 3.2 &amp;amp; A.B, AR 2.4.4 B&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 9/18&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1x94kHirL8iJ_lWEb3RzOdVGphK2RNrBN/view?usp=sharing">5: Quaternions and Rigid Body Motion (3D) - Transformations&lt;/a>&lt;/td>
- &lt;td>MR A.B., AR 2.4.4 B, MR 3.3&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 9/23&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1WMWfsFCSJD_r2NGiMf2MueIBgA1LqOvd/view?usp=sharing">6: More Examples and Rigid Body Motion&lt;/a>&lt;/td>
- &lt;td>MR A.B., AR 2.4.4 B, MR 3.3&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 9/25&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1oDFmt5C7QDo2mVNBvB0rBaib7VFtV72H/view?usp=sharing">7: Forward Kinematics and URDFs&lt;/a>&lt;/td>
- &lt;td>MR 4, 4.2&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 9/30&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1eyhQMCUZHZEwjHVpSbp025fa84goo-AG/view?usp=sharing">8: Forward Kinematics and DH Parameters&lt;/a>&lt;/td>
- &lt;td>MR A.C&lt;/td>
- &lt;td>HW1 Due (5pm)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 10/2&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1g2fgg4UNK6qYk-pufD4KWZXqfRxEj1x2/view?usp=sharing">9: Forward Kinematics and Differential Kinematics&lt;/a>&lt;/td>
- &lt;td>MR 5.0, AR 3.3, Spong Robot Modeling and Control Ch 4&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 10/7&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1z8lfRbICemB798c50vSlhTyW2iIGzIEK/view?usp=sharing">10: Inverse Kinematics&lt;/a>&lt;/td>
- &lt;td>MR 6, 6.2, AR 3.4&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1jGnUvFdJpa9y4fOm8zA_Fzk-2R9d920G/view?usp=sharing">HW2 Released&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 10/9&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/105UPhTsU3GSjSe0RJDfvyRwoct7-CKwV/view?usp=sharing">11: Intro to Planning and Graph-based Methods&lt;/a>&lt;/td>
- &lt;td>MR 10.2&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 10/14&lt;/td>
- &lt;td>&lt;a href="https://drive.google.com/file/d/1nGOGAMsYsQJbO_izBiaVhVTT38ZyFsQP/view?usp=sharing">12: Sample-based Planning Methods&lt;/a>&lt;/td>
- &lt;td>MR 10.5&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 10/16&lt;/td>
- &lt;td>13: Trajectory Generation and Trajectory Optimization&lt;/td>
- &lt;td>MR 9.1-9.3&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 10/21&lt;/td>
- &lt;td>14: Trajectory Optimization&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>HW2 Due (5pm), HW3 Released&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 10/23&lt;/td>
- &lt;td>15: Hierarchy and FSMs&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>Final Project Released&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 10/28&lt;/td>
- &lt;td>16: State Estimation Fundamentals&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 10/30&lt;/td>
- &lt;td>17: Bayes Filters&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 11/4&lt;/td>
- &lt;td>18: Kalman Filters&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>HW3 Due (5pm)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 11/6&lt;/td>
- &lt;td>19: Particle Filters&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>Project Proposal Due (5pm)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 11/11&lt;/td>
- &lt;td>20: Perception 1&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 11/13&lt;/td>
- &lt;td>Midterm Exam&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 11/18&lt;/td>
- &lt;td>21: Feedback Control Introduction&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>HW4 Released&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 11/20&lt;/td>
- &lt;td>22: PID Control&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 11/25&lt;/td>
- &lt;td>23: Modern Techniques – Diffusion and VLA Models&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 11/27&lt;/td>
- &lt;td>No Class. Happy Thanksgiving!&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 12/2&lt;/td>
- &lt;td>24: Foundation Models - Discussion&lt;/td>
- &lt;td>&lt;strong>Flipped Class&lt;/strong> – watch &lt;a href="https://shorturl.at/Kiexj">this&lt;/a> prior to class&lt;/td>
- &lt;td>HW4 Due (5pm)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 12/4&lt;/td>
- &lt;td>25: Guest Roboticist: &lt;a href="https://jasonma2016.github.io/">Jason Ma&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Tue, 12/9&lt;/td>
- &lt;td>26: Final Project Presentations&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Thu, 12/16&lt;/td>
- &lt;td>Final Project Due&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;a href="https://docs.google.com/document/d/1ncjARaYHnS25ipveq-fiLE0iYkx4hVqF/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true">Link to syllabus.&lt;/a></description></item><item><title>Schedule</title><link>https://wisc-rt2.github.io/cs839_spring25/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring25/docs/schedule/</guid><description>&lt;h1 id="schedule">Schedule&lt;a class="anchor" href="#schedule">#&lt;/a>&lt;/h1>
+&lt;p>&lt;em>Note: The schedule below is tentative and subject to change.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;h2 id="-module-1-foundations--research-context">🧭 Module 1: Foundations &amp;amp; Research Context&lt;a class="anchor" href="#-module-1-foundations--research-context">#&lt;/a>&lt;/h2>
+&lt;div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
+&lt;b>Class 1 — Tue, Jan 21&lt;/b> 
+&lt;b>Topic:&lt;/b> Course Overview and Research Directions 
+&lt;b>Resources:&lt;/b> N/A 
+&lt;p>&lt;strong>Plan:&lt;/strong>&lt;br>
+&lt;em>Introduce the course, grading, expectations, and research framing.&lt;/em>&lt;/p>
+&lt;/div>
+&lt;div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
+&lt;b>Class 2 — Thu, Jan 23&lt;/b> 
+&lt;b>Topic:&lt;/b> Review of Robot Kinematics 
+&lt;b>Resources:&lt;/b> Modern Robotics Ch. 4–5 
+&lt;p>&lt;strong>Plan:&lt;/strong>&lt;br>
+&lt;em>Short review of forward/inverse kinematics and rigid-body transformations.&lt;/em>&lt;/p></description></item></channel></rss>
