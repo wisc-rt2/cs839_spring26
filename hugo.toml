@@ -1,4 +1,4 @@
-baseURL = 'https://wisc-rt2.github.io/cs839_spring25/'
+baseURL = 'https://wisc-rt2.github.io/cs839_spring26/'
 languageCode = 'en-us'
 title = "CS839 Topics in Advanced Robotics"
 theme = "hugo-book"
