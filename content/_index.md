@@ -1,6 +1,6 @@
 # CS 839: Topics in Advanced Robotics (**Fall 2026**)
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
-  <source src="/cs839_fall25/cs839_website_videos.mp4" type="video/mp4">
+  <source src="/cs839_fall26/cs839_website_videos.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
