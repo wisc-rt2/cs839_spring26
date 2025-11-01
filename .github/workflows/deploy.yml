@@ -1,4 +1,4 @@
-name: Build and deploy Hugo site to main/docs
+name: Build and deploy Hugo site to main/docs for class
 
 on:
   push:
