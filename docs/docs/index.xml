@@ -8,17 +8,19 @@
 &lt;a href="https://docs.google.com/document/d/1ncjARaYHnS25ipveq-fiLE0iYkx4hVqF/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true">Link to syllabus.&lt;/a></description></item><item><title>Schedule</title><link>https://wisc-rt2.github.io/cs839_spring26/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring26/docs/schedule/</guid><description>&lt;h1 id="schedule">Schedule&lt;a class="anchor" href="#schedule">#&lt;/a>&lt;/h1>
 &lt;p>&lt;em>Note: The schedule below is tentative and subject to change.&lt;/em>&lt;/p>
 &lt;hr>
-&lt;h2 id="-module-1-foundations--research-context">🧭 Module 1: Foundations &amp;amp; Research Context&lt;a class="anchor" href="#-module-1-foundations--research-context">#&lt;/a>&lt;/h2>
+&lt;h2 id="-module-1-fundamentals">🧭 Module 1: Fundamentals&lt;a class="anchor" href="#-module-1-fundamentals">#&lt;/a>&lt;/h2>
 &lt;div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
-&lt;b>Class 1 — Tue, Jan 21&lt;/b> 
-&lt;b>Topic:&lt;/b> Course Overview and Research Directions 
-&lt;b>Resources:&lt;/b> N/A 
-&lt;p>&lt;strong>Plan:&lt;/strong>&lt;br>
-&lt;em>Introduce the course, grading, expectations, and research framing.&lt;/em>&lt;/p>
+&lt;b>Class 1 — Tue, Jan 20&lt;/b>&lt;br>&lt;br>
+&lt;b>Topic:&lt;/b> Course Introduction&lt;br>
+&lt;b>Resources:&lt;/b> yo&lt;br>&lt;br>
+&lt;p>&lt;b>Plan:&lt;/b>&lt;br>
+&lt;em>Course goals, expectations (≈4 papers/week), discussion format, and project overview.&lt;/em>&lt;br>
+&lt;em>Overview of research themes and scope of modern robotics.&lt;/em>&lt;/p>
 &lt;/div>
 &lt;div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
-&lt;b>Class 2 — Thu, Jan 23&lt;/b> 
-&lt;b>Topic:&lt;/b> Review of Robot Kinematics 
-&lt;b>Resources:&lt;/b> Modern Robotics Ch. 4–5 
-&lt;p>&lt;strong>Plan:&lt;/strong>&lt;br>
-&lt;em>Short review of forward/inverse kinematics and rigid-body transformations.&lt;/em>&lt;/p></description></item></channel></rss>
+&lt;b>Class 2 — Thu, Jan 22&lt;/b>&lt;br>
+&lt;b>Topic:&lt;/b> Fundamentals Primer &amp; Paper Drafting&lt;br>
+&lt;b>Resources:&lt;/b> Selected foundational readings&lt;br>&lt;br>
+&lt;p>&lt;b>Plan:&lt;/b>&lt;br>
+&lt;em>Quick refresher on core robotics concepts.&lt;/em>&lt;br>
+&lt;em>How to read, critique, and present research papers.&lt;/em>&lt;/p></description></item></channel></rss>
