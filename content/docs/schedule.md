@@ -6,14 +6,20 @@ weight: 2
 # Schedule
 *Note: The schedule below is tentative and subject to change.*
 
+## Important Links (Assignment Related)
+- Paper Presentation Instructions: [LINK]().
+- Paper Presentation Google Slides Template: [LINK]().
+- Implement Something Instructions: [LINK]().
+- Final Project Instructions: [LINK]().
+
 ---
 
 ## 🧭 Module 1: Fundamentals
 
 <div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
-<b>Class 1 — Tue, Jan 20</b><br><br>
+<b>Class 1 — Tue, Jan 20</b><br>
 <b>Topic:</b> Course Introduction<br>
-<b>Resources:</b> yo<br><br>
+<b>Resources:</b> [slides]<br><br>
 
 <b>Plan:</b><br>
 _Course goals, expectations (≈4 papers/week), discussion format, and project overview._<br>

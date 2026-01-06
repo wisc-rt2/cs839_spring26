@@ -1,6 +1,6 @@
 # CS 839: Topics in Advanced Robotics (**Fall 2026**)
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
-  <source src="/cs839_fall26/cs839_website_videos.mp4" type="video/mp4">
+  /cs839_fall25/cs839_website_videos.mp4
   Your browser does not support the video tag.
 </video>
 
@@ -35,7 +35,7 @@ Previous programming experience is required. Students entering this class are ex
 
 ## Recommended Textbooks
 
-None of the textbooks are required, though you may find them helpful to aid in your learning (particularly in primers/scaffolding for the research we discuss in class). All of the texbooks are available for free online.
+None of the textbooks are required, though you may find them helpful to aid in your learning (particularly in primers/scaffolding for the research we discuss in class). All texbooks are available for free online.
 
 - [*Modern Robotics*](https://hades.mech.northwestern.edu/images/2/25/MR-v2.pdf)<br>Lynch and Park
 - [*Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms*](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)<br>Correll, Hayes, Heckman, and Roncone
@@ -43,8 +43,8 @@ None of the textbooks are required, though you may find them helpful to aid in y
 
  ## Discussion Forum
 
-The instructor will post announcements, clarifications, hints, etc. on Piazza.  
-Students should check the CS639 Piazza page frequently throughout the term.  
+The instructor will post announcements, etc. on Piazza.  
+Students should check and engage with the CS839 Piazza page frequently throughout the term.  
 If you have a question, the best option is to post a message on Piazza.
 
 If your question is personal or not of interest to others, you may mark your question as **private** on Piazza so only instructors will see it.  
@@ -54,8 +54,9 @@ You are also welcome to come to office hours for individual discussion.
 
 Grading will be based on:
 
-- Participation (e.g., polls, responses, feedback): 10 %
-- Paper Presentations: 40 %
-- Final Project: 50%
+- Participation (e.g., attendance, in-class discussion, piazza posts for asynchronous discussion): 20%
+- Implementation Assignment: 15%
+- Paper Reviews and Presentations: 25%
+- Final Project: 40%
 
 
