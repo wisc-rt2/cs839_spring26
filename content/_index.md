@@ -6,7 +6,7 @@
 
 ## Information
 
-- **Time:** Tuesdays and Thursdays from 8:00 AM – 9:15 AM
+- **Time:** Tuesdays and Thursdays from 8:00 AM – 9:16 AM
 - **Location:** Morgridge Hall, Room 2538
 - **Instructor:** Mike Hagenow (mhagenow@wisc.edu)
 - **Instructor Office Hours:** Thursdays at 9:15 AM – 10:30 AM
@@ -15,8 +15,8 @@
 - **PM Office Hours:** TBD
 - **PM Office Location:** TBD -->
 <!-- - **Syllabus:** [pdf] -->
-<!-- - **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/fall2025/cs639003/home)
-- **Piazza Signup:** [Link](https://piazza.com/wisc/fall2025/cs639003) -->
+- **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/spring2026/cs839/home)
+- **Piazza Signup:** [Link](https://piazza.com/wisc/spring2026/cs839)
 <!-- - **Canvas:** Canvas -->
 <!-- - **Homework Submission:** Gradescope -->
 
@@ -39,21 +39,16 @@ None of the textbooks are required, though you may find them helpful to aid in y
 
 - [*Modern Robotics*](https://hades.mech.northwestern.edu/images/2/25/MR-v2.pdf)<br>Lynch and Park
 - [*Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms*](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)<br>Correll, Hayes, Heckman, and Roncone
-<!--- *Probabilistic Robotics*, Thrun, Burgard, and Fox-->
+- [*Springer Handbook of Robotics*](https://search.library.wisc.edu/catalog/9910060300402121), Siciliano, Khatib
 
-
-<!-- ## Discussion Forum
+ ## Discussion Forum
 
 The instructor will post announcements, clarifications, hints, etc. on Piazza.  
 Students should check the CS639 Piazza page frequently throughout the term.  
 If you have a question, the best option is to post a message on Piazza.
 
-Helpful guidelines:
-- Please check if someone has posted the same/similar question before yours; it’s easier if we build on the thread.
-- Use an informative "Summary" line to help others.
-
 If your question is personal or not of interest to others, you may mark your question as **private** on Piazza so only instructors will see it.  
-You are also welcome to come to office hours for individual discussion. -->
+You are also welcome to come to office hours for individual discussion.
 
 ## Grading
 
