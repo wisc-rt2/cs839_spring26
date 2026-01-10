@@ -10,23 +10,25 @@
 &lt;h2 id="important-links-assignment-related">Important Links (Assignment Related)&lt;a class="anchor" href="#important-links-assignment-related">#&lt;/a>&lt;/h2>
 &lt;div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
 &lt;b>Paper Presentations&lt;/b>&lt;br>
-- Instructions Document: [LINK]().
-- Google Slides Template: [LINK](https://docs.google.com/presentation/d/1cWYjXQWzqkfnhhN8FrIJJ6lXDHJU-O5sqEjwT0tR4Ww/edit?usp=sharing).
+&lt;!-- - Instructions Document: [LINK](). -->
+- Google Slides Template: &lt;a href="https://docs.google.com/presentation/d/1cWYjXQWzqkfnhhN8FrIJJ6lXDHJU-O5sqEjwT0tR4Ww/edit?usp=sharing">LINK&lt;/a>.
 - Due by 5pm the day before your presentation (piazza post with slides and discussion topics).
 &lt;/div>
 &lt;div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
 &lt;b>'Implement Something' Assignment/Presentation&lt;/b>&lt;br>
-- Instructions Document: [LINK]().
+- Details coming soon.
+&lt;!-- - Instructions Document: [LINK]().
 - Google Slides (for presentations): [LINK]().
-- Due by 5pm on X/Y.
+- Due by 5pm on X/Y. -->
 &lt;/div>
 &lt;div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
 &lt;b>Final Project&lt;/b>&lt;br>
-- Instructions Document: [LINK]().
+- Details coming soon.
+&lt;!-- - Instructions Document: [LINK]().
 - Google Slides (for presentations): [LINK]().
 - Proposal due by 5pm on X/Y.
 - Slides due by 5pm on X/Y.
-- Report due by 5pm on X/Y.
+- Report due by 5pm on X/Y. -->
 &lt;/div>
 &lt;hr>
 &lt;h2 id="-module-1-fundamentals">🧭 Module 1: Fundamentals&lt;a class="anchor" href="#-module-1-fundamentals">#&lt;/a>&lt;/h2>
@@ -35,7 +37,7 @@
 &lt;b>Topic:&lt;/b> Introduction&lt;br>
 &lt;b>Goal:&lt;/b> &lt;i>(to be filled)&lt;/i>&lt;br>&lt;br>
 &lt;ul>
-&lt;li>Slides: &lt;a href="">LINK&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
@@ -43,6 +45,6 @@
 &lt;b>Topic:&lt;/b> The Paper 'Draft' &amp; Fundamentals Primer&lt;br>
 &lt;b>Goal:&lt;/b> &lt;i>Sign up for paper presentations and a quick review of common terms and formulations used in the robotics literature.&lt;/i>&lt;br>&lt;br>
 &lt;ul>
-&lt;li>Slides: &lt;a href="">LINK&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;b>Additional Resources:&lt;/b>&lt;/p></description></item></channel></rss>
