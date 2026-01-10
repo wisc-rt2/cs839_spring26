@@ -9,25 +9,27 @@ weight: 2
 ## Important Links (Assignment Related)
 <div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
 <b>Paper Presentations</b><br>
-- Instructions Document: [LINK]().
-- Google Slides Template: [LINK](https://docs.google.com/presentation/d/1cWYjXQWzqkfnhhN8FrIJJ6lXDHJU-O5sqEjwT0tR4Ww/edit?usp=sharing).
+<!-- - Instructions Document: [LINK](). -->
+- Google Slides Template: <a href="https://docs.google.com/presentation/d/1cWYjXQWzqkfnhhN8FrIJJ6lXDHJU-O5sqEjwT0tR4Ww/edit?usp=sharing">LINK</a>.
 - Due by 5pm the day before your presentation (piazza post with slides and discussion topics).
 </div>
 
 <div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
 <b>'Implement Something' Assignment/Presentation</b><br>
-- Instructions Document: [LINK]().
+- Details coming soon.
+<!-- - Instructions Document: [LINK]().
 - Google Slides (for presentations): [LINK]().
-- Due by 5pm on X/Y.
+- Due by 5pm on X/Y. -->
 </div>
 
 <div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
 <b>Final Project</b><br>
-- Instructions Document: [LINK]().
+- Details coming soon.
+<!-- - Instructions Document: [LINK]().
 - Google Slides (for presentations): [LINK]().
 - Proposal due by 5pm on X/Y.
 - Slides due by 5pm on X/Y.
-- Report due by 5pm on X/Y.
+- Report due by 5pm on X/Y. -->
 </div>
 
 ---
@@ -39,7 +41,7 @@ weight: 2
 <b>Topic:</b> Introduction<br>
 <b>Goal:</b> <i>(to be filled)</i><br><br>
 
-- Slides: [LINK]()
+- Slides: [LINK](https://wisc-rt2.github.io/cs839_spring26/docs/schedule/)
 </div>
 
 <div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
@@ -47,7 +49,7 @@ weight: 2
 <b>Topic:</b> The Paper 'Draft' & Fundamentals Primer<br>
 <b>Goal:</b> <i>Sign up for paper presentations and a quick review of common terms and formulations used in the robotics literature.</i><br><br>
 
-- Slides: [LINK]()
+- Slides: [LINK](https://wisc-rt2.github.io/cs839_spring26/docs/schedule/)
 
 <b>Additional Resources:</b>
 - [Springer Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5)
@@ -61,8 +63,8 @@ weight: 2
 - [Collaborative Robots and Industrial Revolution 4.0 (IR 4.0)](https://ieeexplore.ieee.org/abstract/document/9080724)
 - [The Evolution of Robotics Research — From Industrial Robotics to Field and Service Robotics](https://ieeexplore.ieee.org/document/4141037)
 
-<b>Additional Resources:</b>
-- [LINK]()
+<!-- <b>Additional Resources:</b>
+- [LINK]() -->
 </div>
 
 <div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
@@ -73,8 +75,8 @@ weight: 2
 - [DexPilot: Vision-Based Teleoperation of Dexterous Robotic Hand–Arm Systems](https://arxiv.org/abs/1910.03135)
 - [RelaxedIK: Real-time Synthesis of Accurate and Feasible Robot Arm Motion](https://m.roboticsproceedings.org/rss14/p43.pdf)
 
-<b>Additional Resources:</b>
-- [LINK]()
+<!-- <b>Additional Resources:</b>
+- [LINK]() -->
 </div>
 
 <div style="border:2px solid #0077cc; border-radius:10px; padding:10px; margin:10px 0;">
@@ -86,8 +88,12 @@ weight: 2
 - [Motion Planning Around Obstacles with Convex Optimization](https://arxiv.org/abs/2205.04422)
 
 <b>Additional Resources:</b>
-- [LINK]()
+- <a href="https://arxiv.org/abs/2406.02807">
+    Collision-Affording Point Trees: SIMD-Amenable Nearest Neighbors for Fast Collision Checking
+  </a>
+  <span style="color:blue"> *(recent high-performance path planning RSS paper)*</span>
 </div>
+
 
 ---
 
@@ -98,81 +104,81 @@ weight: 2
 <b>Topic:</b> Learning Primer<br>
 <b>Goal:</b> <i>Review high-level architectures/approaches to robot learning, including imitation learning, RL, and IRL.</i><br><br>
 
-- Slides: [LINK]()
+- Slides: [LINK](https://wisc-rt2.github.io/cs839_spring26/docs/schedule/)
 
 <b>Additional Resources:</b>
-- [LINK]()
+- [ALVINN: AN AUTONOMOUS LAND VEHICLE IN A NEURAL NETWORK ](https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf) <span style="color:blue">*(original BC paper)*</span>.
 </div>
 
 <div style="border:2px solid #9b59b6; border-radius:10px; padding:10px; margin:10px 0;">
 <b>Class 7 — Tue, Feb 10, 2026</b><br>
 <b>Topic:</b> Learning 1: Foundations<br>
-<b>Goal:</b> <i>(to be filled)</i><br><br>
+<b>Goal:</b> <i>Review classical learning techniques, including movement primitives and behavior cloning.</i><br><br>
 
-- Movement Primitives
+- [Movement Primitives](https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf)
 - [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954)
 
 <b>Additional Resources:</b>
-- [LINK]()
+- [Generative Adversarial Imitation Learning](https://proceedings.neurips.cc/paper_files/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf) <span style="color:blue">*(another historical but more recent approach to imitation learning)*</span>
 </div>
 
 <div style="border:2px solid #9b59b6; border-radius:10px; padding:10px; margin:10px 0;">
 <b>Class 8 — Thu, Feb 12, 2026</b><br>
 <b>Topic:</b> Learning 2: End-to-End & Meta-Learning<br>
-<b>Goal:</b> <i>(to be filled)</i><br><br>
+<b>Goal:</b> <i>The first paper was a bit moment in robotics that demonstrated learning could be achieved without intermediate representations (pixels to motor torques). The second paper was an influential early work about adopting existing models to new tasks (toward better robot learning generalization).</i><br><br>
 
-- End-to-End Learning
-- Model-Agnostic Meta-Learning (MAML)
+- [End-to-End Learning](https://arxiv.org/abs/1504.00702)
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
 
-<b>Additional Resources:</b>
-- [LINK]()
+<!-- <b>Additional Resources:</b>
+- [LINK]() -->
 </div>
 
 <div style="border:2px solid #9b59b6; border-radius:10px; padding:10px; margin:10px 0;">
 <b>Class 9 — Tue, Feb 17, 2026</b><br>
-<b>Topic:</b> Learning 3: Inference & Human Feedback<br>
-<b>Goal:</b> <i>(to be filled)</i><br><br>
+<b>Topic:</b> Learning 3: Intermediate Representations in Learning<br>
+<b>Goal:</b> <i>We will look at two learning approaches that anchor on an intermediate representation: IRL where the model infers a reward function and 'yell at your robot' which has a high-level and low-level policy.</i><br><br>
 
-- Maximum Entropy Inverse Reinforcement Learning
-- Yell at Your Robot
+- [Maximum Entropy Inverse Reinforcement Learning](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf)
+- [Yell At Your Robot: Improving On-the-Fly from Language Corrections](https://arxiv.org/abs/2403.12910)
 
-<b>Additional Resources:</b>
-- [LINK]()
+<!-- <b>Additional Resources:</b>
+- [LINK]() -->
 </div>
 
 <div style="border:2px solid #9b59b6; border-radius:10px; padding:10px; margin:10px 0;">
 <b>Class 10 — Thu, Feb 19, 2026</b><br>
 <b>Topic:</b> Literature Review Workshop<br>
-<b>Goal:</b> <i>(to be filled)</i><br><br>
+<b>Goal:</b> <i>We will discuss stratgies for finding relevant research literature and do an in-class exercise where we search for papers related to a topic.</i><br><br>
 
-- Student-selected papers
+- Slides: [LINK](https://wisc-rt2.github.io/cs839_spring26/docs/schedule/)
 
-<b>Additional Resources:</b>
-- [LINK]()
+<!-- <b>Additional Resources:</b>
+- [LINK]() # TODO: try to find some blog posts on literature review? -->
 </div>
 
 <div style="border:2px solid #9b59b6; border-radius:10px; padding:10px; margin:10px 0;">
 <b>Class 11 — Tue, Feb 24, 2026</b><br>
 <b>Topic:</b> Learning 4: The Rise of Generative Learning<br>
-<b>Goal:</b> <i>(to be filled)</i><br><br>
+<b>Goal:</b> <i>Two papers representing an inflection point in robot learning where LLMs and generative models began to really take off in robotics.</i><br><br>
 
-- SayCan
-- Diffusion Policy
+- [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/assets/palm_saycan.pdf)
+- [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137v4)
 
-<b>Additional Resources:</b>
-- [LINK]()
+<!-- <b>Additional Resources:</b>
+- [LINK]() -->
 </div>
 
 <div style="border:2px solid #9b59b6; border-radius:10px; padding:10px; margin:10px 0;">
 <b>Class 12 — Thu, Feb 26, 2026</b><br>
 <b>Topic:</b> Learning 5: Practical Considerations in Learning<br>
-<b>Goal:</b> <i>(to be filled)</i><br><br>
+<b>Goal:</b> <i>Recent learning methods have less parameter sensitivity, but there are still many small considerations that can make or break learning systems.</i><br><br>
 
-- What Matters in Learning from Offline Data
-- Orientation Neural Networks
+- [What Matters in Learning from Offline Data](https://arxiv.org/abs/2108.03298)
+- [On the Continuity of Rotation Representations in Neural Networks](https://arxiv.org/abs/1812.07035)
 
 <b>Additional Resources:</b>
-- [LINK]()
+- [Much Ado About Noising: Dispelling the Myths of Generative Robotic Control](https://arxiv.org/abs/2512.01809) <span tyle="color:blue">*(recent paper challenging the need of high capacity generative models in learning)*</span>
 </div>
 
 <div style="border:2px solid #9b59b6; border-radius:10px; padding:10px; margin:10px 0;">
@@ -180,8 +186,8 @@ weight: 2
 <b>Topic:</b> Learning 6: Frontiers<br>
 <b>Goal:</b> <i>(to be filled)</i><br><br>
 
-- RSS 2025 Highlights
-- Pi0.6
+- [π∗0.6: a VLA That Learns From Experience](https://www.pi.website/download/pistar06.pdf)
+- [mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692)
 
 <b>Additional Resources:</b>
 - [LINK]()
@@ -194,12 +200,12 @@ weight: 2
 <div style="border:2px solid #16a085; border-radius:10px; padding:10px; margin:10px 0;">
 <b>Class 14 — Thu, Mar 5, 2026</b><br>
 <b>Topic:</b> Interactive Systems Primer<br>
-<b>Goal:</b> <i>(to be filled)</i><br><br>
+<b>Goal:</b> <i>Introduce challenges, approaches, and considerations for systems that work around and with people.</i><br><br>
 
-- Slides: [LINK]()
+- Slides: [LINK](https://wisc-rt2.github.io/cs839_spring26/docs/schedule/)
 
-<b>Additional Resources:</b>
-- [LINK]()
+<!-- <b>Additional Resources:</b>
+- [LINK]() -->
 </div>
 
 <div style="border:2px solid #16a085; border-radius:10px; padding:10px; margin:10px 0;">
