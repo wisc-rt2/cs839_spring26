@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-weight:2
+weight: 2
 ---
 
 # Schedule
