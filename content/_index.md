@@ -34,7 +34,7 @@ Previous programming experience is required. Students entering this class are ex
 (COMP SCI 400 or 320) and (MATH 320, 340, 341, 345 or 375) and (STAT 311, 324, 333, 340, 371, STAT/MATH 309, 431, MATH 331 or 531) -->
 
 
-## Recommended Textbooks
+## Additional References
 
 None of the textbooks are required, though you may find them helpful to aid in your learning (particularly in primers/scaffolding for the research we discuss in class). All texbooks are available for free online.
 
