@@ -1,5 +1,4 @@
-# CS 839: Topics in Advanced Robotics
-## (**Spring 2026**)
+# CS 839: Topics in Advanced Robotics (**S'26**)
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
   <source src="/cs839_spring26/cs839_website_videos.mp4" type="video/mp4">
   Your browser does not support the video tag.
