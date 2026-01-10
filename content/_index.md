@@ -39,7 +39,7 @@ None of the textbooks are required, though you may find them helpful to aid in y
 
 - [*Modern Robotics*](https://hades.mech.northwestern.edu/images/2/25/MR-v2.pdf)<br>Lynch and Park
 - [*Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms*](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)<br>Correll, Hayes, Heckman, and Roncone
-- [*Springer Handbook of Robotics*](https://search.library.wisc.edu/catalog/9910060300402121), Siciliano, Khatib
+- [*Springer Handbook of Robotics*](https://search.library.wisc.edu/catalog/9910060300402121)<br> Siciliano and Khatib
 
  ## Discussion Forum
 
