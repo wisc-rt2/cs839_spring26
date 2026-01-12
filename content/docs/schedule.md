@@ -6,30 +6,6 @@ weight: 2
 # Schedule
 <i>Note:The schedule below is tentative and subject to change.</i>
 
-## Important Links (Assignment Related)
-
-<div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-<b>Paper Presentations</b><br>
-<ul>
-<li>Google Slides Template: <a href="https://docs.google.com/presentation/d/1cWYjXQWzqkfnhhN8FrIJJ6lXDHJU-O5sqEjwT0tR4Ww/edit?usp=sharing">LINK</a></li>
-<li>Due by 5pm the day before your presentation (Piazza post with slides and discussion topics).</li>
-</ul>
-</div>
-
-<div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-<b>'Implement Something' Assignment / Presentation</b><br>
-<ul>
-<li>Details coming soon.</li>
-</ul>
-</div>
-
-<div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-<b>Final Project</b><br>
-<ul>
-<li>Details coming soon.</li>
-</ul>
-</div>
-
 ---
 
 ## 🧭 Module 1: Fundamentals
@@ -124,7 +100,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 8 — Thu, Feb 12, 2026</b><br>
-<b>Topic:</b>Learning 2:End-to-End & Meta-Learning<br>
+<b>Learning 2:End-to-End & Meta-Learning</b><br>
 <b>Goal: </b><i>End-to-end learning and early meta-learning approaches for generalization.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/1504.00702">End-to-End Learning</a></li>
@@ -134,7 +110,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 9 — Tue, Feb 17, 2026</b><br>
-<b>Topic:</b>Learning 3:Intermediate Representations<br>
+<b>Learning 3:Intermediate Representations</b><br>
 <b>Goal: </b><i>Learning with inferred reward functions and hierarchical correction.</i><br>
 <ul>
 <li><a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf">Maximum Entropy Inverse Reinforcement Learning</a></li>
@@ -144,7 +120,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 10 — Thu, Feb 19, 2026</b><br>
-<b>Topic:</b>Literature Review Workshop<br>
+<b>Literature Review Workshop</b><br>
 <b>Goal: </b><i>Strategies for finding and evaluating robotics research.</i><br>
 <ul>
 <li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
@@ -153,7 +129,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 11 — Tue, Feb 24, 2026</b><br>
-<b>Topic:</b>Learning 4:The Rise of Generative Learning<br>
+<b>Learning 4:The Rise of Generative Learning</b><br>
 <b>Goal: </b><i>Inflection point papers in generative robotics.</i><br>
 <ul>
 <li><a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say</a></li>
@@ -163,7 +139,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 12 — Thu, Feb 26, 2026</b><br>
-<b>Topic:</b>Learning 5:Practical Considerations<br>
+<b>Learning 5:Practical Considerations</b><br>
 <b>Goal: </b><i>Small design choices that impact learning systems.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data</a></li>
@@ -193,7 +169,7 @@ weight: 2
 
 <div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 14 — Thu, Mar 5, 2026</b><br>
-<b>Topic:</b>Interactive Systems Primer<br>
+<b>Interactive Systems Primer</b><br>
 <b>Goal: </b><i>Introduce challenges and approaches for robot systems that work with people.</i><br>
 <ul>
 <li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
@@ -223,7 +199,7 @@ weight: 2
 <ul>
 <li>Presentation slides: LINK COMING SOON.</li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
 <li><a href="">LINK</a></li>
 </ul> -->
@@ -261,7 +237,7 @@ weight: 2
 <b>Interactive Systems 2: Human–Robot Collaboration</b><br>
 <b>Goal: </b><i>Introduces methods for settings of human-robot collaboration.</i><br>
 <ul>
-<li><a href="https://www.ri.cmu.edu/pub_files/2013/5/assistive_teleop_IJRR.pdf">TBD A policy-blending formalism for shared control
+<li><a href="https://ieeexplore.ieee.org/abstract/document/10301659">An Ergo-Interactive Framework for Human-Robot Collaboration Via Learning From Demonstration
 </a></li>
 <li><a href="https://arxiv.org/abs/1802.01780">Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration
 </a></li>
@@ -322,15 +298,15 @@ weight: 2
 <li><a href="https://www.roboticsproceedings.org/rss20/p015.pdf">Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation
 </a></li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
 <li><a href="tbd">TBD</a><span style="color:blue;"> (tbd)</span></li>
-</ul>
+</ul> -->
 </div>
 
 <div style="border:2px solid #e67e22;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 23 — Tue, Apr 14, 2026</b><br>
-<b>Topic:</b>Safety in Robotics<br>
+<b>Safety in Robotics</b><br>
 <b>Goal: </b><i>(to be filled)</i><br>
 <ul>
 <li><a href="https://dl.acm.org/doi/abs/10.1145/3610977.3635002">Enhancing Safety in Learning from Demonstration Algorithms via Control Barrier Function Shielding
@@ -366,7 +342,7 @@ weight: 2
 
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 25 — Tue, Apr 21, 2026</b><br>
-<b>Applications 2: Humanoids and Quadrapeds<b><br>
+<b>Applications 2: Humanoids and Quadrapeds</b><br>
 <b>Goal: </b><i>(to be filled)</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2208.07860">A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning
