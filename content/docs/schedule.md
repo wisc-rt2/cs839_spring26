@@ -39,7 +39,7 @@ weight: 2
 <b>Introduction</b><br>
 <b>Goal: </b><i>Introduce the course goals, expectations, and format.</i><br>
 <ul>
-<li>Slides:<a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
 </ul>
 </div>
 
@@ -48,7 +48,7 @@ weight: 2
 <b>Fundamentals Primer & The Paper "Draft"</b><br>
 <b>Goal: </b><i>Quick review of common terms and formulations in robotics literature and in-class sign up for paper presentations.</i><br>
 <ul>
-<li>Slides:<a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
 </ul>
 <b>Additional Resources:</b>
 <ul>
@@ -97,35 +97,35 @@ weight: 2
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 6 — Thu, Feb 5, 2026</b><br>
 <b>Learning Primer</b><br>
-<b>Goal: </b><i>Review high-level robot learning architectures and approaches.</i><br><br>
+<b>Goal: </b><i>Review high-level robot learning architectures and approaches.</i><br>
 <ul>
-<li>Slides:<a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
-<li><a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN:An Autonomous Land Vehicle in a Neural Network</a><span style="color:blue;"> (original BC paper)</span></li>
-</ul>
+<li><a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN: An Autonomous Land Vehicle in a Neural Network</a><span style="color:blue;"> (original BC paper)</span></li>
+</ul> -->
 </div>
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 7 — Tue, Feb 10, 2026</b><br>
-<b>Topic:</b>Learning 1:Foundations<br>
-<b>Goal: </b><i>Review classical learning techniques including movement primitives and behavior cloning.</i><br><br>
+<b>Learning 1:Foundations</b><br>
+<b>Goal: </b><i>Review classical learning techniques including movement primitives and behavior cloning.</i><br>
 <ul>
 <li><a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf">Movement Primitives</a></li>
 <li><a href="https://arxiv.org/abs/1805.01954">Behavioral Cloning from Observation</a></li>
 </ul>
 <b>Additional Resources:</b>
 <ul>
-<li><a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN:An Autonomous Land Vehicle in a Neural Network</a><span style="color:blue;"> (original BC paper)</span></li>
-<li><a href="https://proceedings.neurips.cc/paper_files/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf">Generative Adversarial Imitation Learning</a><span style="color:blue;"> (another example of a historically popular learning technique)</span></li>
+<li><a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN: An Autonomous Land Vehicle in a Neural Network</a><span style="color:blue;"> (original BC paper)</span></li>
+<li><a href="https://proceedings.neurips.cc/paper_files/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf">Generative Adversarial Imitation Learning</a><span style="color:blue;"> (another historically popular learning technique)</span></li>
 </ul>
 </div>
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 8 — Thu, Feb 12, 2026</b><br>
 <b>Topic:</b>Learning 2:End-to-End & Meta-Learning<br>
-<b>Goal: </b><i>End-to-end learning and early meta-learning approaches for generalization.</i><br><br>
+<b>Goal: </b><i>End-to-end learning and early meta-learning approaches for generalization.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/1504.00702">End-to-End Learning</a></li>
 <li><a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning</a></li>
@@ -135,7 +135,7 @@ weight: 2
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 9 — Tue, Feb 17, 2026</b><br>
 <b>Topic:</b>Learning 3:Intermediate Representations<br>
-<b>Goal: </b><i>Learning with inferred reward functions and hierarchical correction.</i><br><br>
+<b>Goal: </b><i>Learning with inferred reward functions and hierarchical correction.</i><br>
 <ul>
 <li><a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf">Maximum Entropy Inverse Reinforcement Learning</a></li>
 <li><a href="https://arxiv.org/abs/2403.12910">Yell At Your Robot</a></li>
@@ -145,16 +145,16 @@ weight: 2
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 10 — Thu, Feb 19, 2026</b><br>
 <b>Topic:</b>Literature Review Workshop<br>
-<b>Goal: </b><i>Strategies for finding and evaluating robotics research.</i><br><br>
+<b>Goal: </b><i>Strategies for finding and evaluating robotics research.</i><br>
 <ul>
-<li>Slides:<a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
 </ul>
 </div>
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 11 — Tue, Feb 24, 2026</b><br>
 <b>Topic:</b>Learning 4:The Rise of Generative Learning<br>
-<b>Goal: </b><i>Inflection point papers in generative robotics.</i><br><br>
+<b>Goal: </b><i>Inflection point papers in generative robotics.</i><br>
 <ul>
 <li><a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say</a></li>
 <li><a href="https://arxiv.org/abs/2303.04137v4">Diffusion Policy</a></li>
@@ -164,7 +164,7 @@ weight: 2
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 12 — Thu, Feb 26, 2026</b><br>
 <b>Topic:</b>Learning 5:Practical Considerations<br>
-<b>Goal: </b><i>Small design choices that impact learning systems.</i><br><br>
+<b>Goal: </b><i>Small design choices that impact learning systems.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data</a></li>
 <li><a href="https://arxiv.org/abs/1812.07035">Continuity of Rotation Representations</a></li>
@@ -179,7 +179,7 @@ weight: 2
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 13 — Tue, Mar 3, 2026</b><br>
 <b>Learning 6: Frontiers</b><br>
-<b>Goal: </b><i>Recent VLAs including from industry and leveraging video models.</i><br><br>
+<b>Goal: </b><i>Recent VLAs including from industry and leveraging video models.</i><br>
 <ul>
 <li><a href="https://www.pi.website/download/pistar06.pdf">π∗ 0.6: a VLA That Learns From Experience</a></li>
 <li><a href="https://arxiv.org/abs/2512.15692">mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs
@@ -194,23 +194,23 @@ weight: 2
 <div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 14 — Thu, Mar 5, 2026</b><br>
 <b>Topic:</b>Interactive Systems Primer<br>
-<b>Goal: </b><i>Introduce challenges and approaches for robot systems that work with people.</i><br><br>
+<b>Goal: </b><i>Introduce challenges and approaches for robot systems that work with people.</i><br>
 <ul>
-<li>Slides:<a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
 </ul>
 </div>
 
 <div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 15 — Tue, Mar 10, 2026</b><br>
 <b>Interactive Systems 1: Teleoperation & Simplifying Human Input</b><br>
-<b>Goal: </b><i>Investigate lower level of autonomy systems for people to drive robot behavior.</i><br><br>
+<b>Goal: </b><i>Investigate lower level of autonomy systems for people to drive robot behavior.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2407.01512">Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 </a></li>
 <li><a href="https://arxiv.org/abs/2107.02907">Learning Latent Actions to Control Assistive Robots
 </a></li>
-<!-- </ul>
-<b>Additional Resources:</b>
+</ul>
+<!-- <b>Additional Resources:</b>
 <ul>
 <li><a href="">LINK</a></li>
 </ul> -->
@@ -219,10 +219,10 @@ weight: 2
 <div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 16 — Thu, Mar 12, 2026</b><br>
 <b>Implement Something: Mini Presentations</b><br>
-<b>Goal: </b><i>Lightning presentations of your mini implementation projects</i><br><br>
+<b>Goal: </b><i>Lightning presentations of your mini implementation projects</i><br>
 <ul>
 <li>Presentation slides: LINK COMING SOON.</li>
-<!-- </ul>
+</ul>
 <b>Additional Resources:</b>
 <ul>
 <li><a href="">LINK</a></li>
@@ -231,8 +231,8 @@ weight: 2
 
 <div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 17 — Tue, Mar 17, 2026</b><br>
-<b>ASYNCHRONOUS: Large Behavior Models<br>
-<b>Goal: </b><i>TRI has been one company leading the push on developing and evaluating foundation models for robotics. We will watch and dicuss a seminar related to their work.</i><br><br>
+<b>ASYNCHRONOUS: Large Behavior Models</b><br>
+<b>Goal: </b><i>TRI has been one company leading the push on developing and evaluating foundation models for robotics. We will watch and dicuss a seminar related to their work.</i><br>
 <ul>
 <li>Watch <a href="https://www.youtube.com/watch?v=TN1M6vg4CsQ">this lecture by Russ Tedrake</a> and comment on the piazza post</li>
 </ul>
@@ -245,43 +245,47 @@ weight: 2
 
 <div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 18 — Thu, Mar 19, 2026</b><br>
-<b>ASYNCHRONOUS: </b>The Trajectory of Robotics Research<br>
-<b>Goal: </b><i></i><br><br>
+<b>ASYNCHRONOUS: The Trajectory of Robotics Research and Human-Centered Robots</b><br>
+<b>Goal: </b><i></i><br>
 <ul>
 <li>Watch <a href="https://www.youtube.com/watch?v=4fDASBn7gaU">this lecture by Rodney Brooks</a> and comment on the piazza post</li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
 <li><a href="">LINK</a></li>
-</ul>
+</ul> -->
 </div>
 
 <div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 19 — Tue, Mar 24, 2026</b><br>
-<b>Topic:</b>Interactive Systems 2:Human–Robot Collaboration<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Interactive Systems 2: Human–Robot Collaboration</b><br>
+<b>Goal: </b><i>Introduces methods for settings of human-robot collaboration.</i><br>
 <ul>
-<li>Policy Blending Formalism</li>
-<li>Goal Inference Improves Objective and Perceived Performance in Human–Robot Collaboration</li>
+<li><a href="https://www.ri.cmu.edu/pub_files/2013/5/assistive_teleop_IJRR.pdf">TBD A policy-blending formalism for shared control
+</a></li>
+<li><a href="https://arxiv.org/abs/1802.01780">Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration
+</a></li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
 <li><a href="">LINK</a></li>
-</ul>
+</ul> -->
 </div>
 
 <div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 20 — Thu, Mar 26, 2026</b><br>
-<b>Topic:</b>Interactive Systems 3:Shared Autonomy<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Interactive Systems 3: Shared Autonomy</b><br>
+<b>Goal: </b><i>Introduces a classical and recent generative method for shared autonomy.</i><br>
 <ul>
-<li>A Policy Blending Formalism</li>
-<li>To the Noise and Back</li>
+<li><a href="https://www.ri.cmu.edu/pub_files/2013/5/assistive_teleop_IJRR.pdf">A policy-blending formalism for shared control
+</a></li>
+<li><a href="https://arxiv.org/abs/2302.12244">To the Noise and Back: Diffusion for Shared Autonomy
+</a></li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
 <li><a href="">LINK</a></li>
-</ul>
+</ul> -->
 </div>
 
 ---
@@ -294,42 +298,50 @@ weight: 2
 
 <div style="border:2px solid #e67e22;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 21 — Tue, Apr 7, 2026</b><br>
-<b>Topic:</b>Interactive Systems 4:Minimizing User Input<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Interactive Systems 4: Minimizing User Input</b><br>
+<b>Goal: </b><i>(to be filled)</i><br>
 <ul>
-<li>Asking Easy Questions</li>
-<li>REALM</li>
+<li><a href="https://arxiv.org/abs/1910.04365">Asking Easy Questions: A User-Friendly Approach to Active Reward Learning
+</a></li>
+<li><a href="https://arxiv.org/abs/2504.09243">REALM: Real-Time Estimates of Assistance for Learned Models in Human-Robot Interaction
+</a></li>
 </ul>
 <b>Additional Resources:</b>
 <ul>
-<li><a href="">LINK</a></li>
+<li><a href="https://proceedings.mlr.press/v205/fitzgerald23a/fitzgerald23a.pdf">INQUIRE: INteractive Querying for User-aware Informative REasoning</a><span style="color:blue;"> (choosing human inputs based on informativeness in interactive learning)</span></li>
 </ul>
 </div>
 
 <div style="border:2px solid #e67e22;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 22 — Thu, Apr 9, 2026</b><br>
-<b>Topic:</b>Simulation & Sim-to-Real<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Simulation & Sim-to-Real</b><br>
+<b>Goal: </b><i>(to be filled)</i><br>
 <ul>
-<li>Selected papers</li>
+<li><a href="https://arxiv.org/abs/2511.04831">Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning
+</a></li>
+<li><a href="https://www.roboticsproceedings.org/rss20/p015.pdf">Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation
+</a></li>
 </ul>
 <b>Additional Resources:</b>
 <ul>
-<li><a href="">LINK</a></li>
+<li><a href="tbd">TBD</a><span style="color:blue;"> (tbd)</span></li>
 </ul>
 </div>
 
 <div style="border:2px solid #e67e22;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 23 — Tue, Apr 14, 2026</b><br>
 <b>Topic:</b>Safety in Robotics<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Goal: </b><i>(to be filled)</i><br>
 <ul>
-<li>Selected papers</li>
+<li><a href="https://dl.acm.org/doi/abs/10.1145/3610977.3635002">Enhancing Safety in Learning from Demonstration Algorithms via Control Barrier Function Shielding
+</a></li>
+<li><a href="https://arxiv.org/abs/2502.00935">Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis
+</a></li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
-<li><a href="">LINK</a></li>
-</ul>
+<li><a href="tbd">TBD</a><span style="color:blue;"> (tbd)</span></li>
+</ul> -->
 </div>
 
 ---
@@ -338,68 +350,66 @@ weight: 2
 
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 24 — Thu, Apr 16, 2026</b><br>
-<b>Topic:</b>Applications 1<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Applications 1: Mobile and Marine Robotics</b><br>
+<b>Goal: </b><i>(to be filled)</i><br>
 <ul>
-<li>SLAM (Luca)</li>
-<li>Marine Robotics (WHOI)</li>
+<li><a href="https://arxiv.org/abs/2402.13817">Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments
+</a></li>
+<li><a href="https://ieeexplore.ieee.org/abstract/document/7742315">Ocean One: A Robotic Avatar for Oceanic Discovery
+</a></li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
-<li><a href="">LINK</a></li>
-</ul>
+<li><a href="tbd">TBD</a><span style="color:blue;"> (tbd)</span></li>
+</ul> -->
 </div>
 
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 25 — Tue, Apr 21, 2026</b><br>
-<b>Topic:</b>Applications 2<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Applications 2: Humanoids and Quadrapeds<b><br>
+<b>Goal: </b><i>(to be filled)</i><br>
 <ul>
-<li>Humanoids (DARPA)</li>
-<li>Quadrupeds</li>
+<li><a href="https://arxiv.org/abs/2208.07860">A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning
+</a></li>
+<li><a href="https://ieeexplore.ieee.org/abstract/document/7742315">Ocean One: A Robotic Avatar for Oceanic Discovery
+</a></li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
-<li><a href="">LINK</a></li>
-</ul>
+<li><a href="tbd">TBD</a><span style="color:blue;"> (tbd)</span></li>
+</ul> -->
 </div>
 
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 26 — Thu, Apr 23, 2026</b><br>
-<b>Topic:</b>Applications 3<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Applications 3: Assistive Robots and UAVs</b><br>
+<b>Goal: </b><i>(to be filled)</i><br>
 <ul>
-<li>Assistive Robotics (FEAST)</li>
-<li>UAVs & Drone Racing</li>
+<li><a href="https://arxiv.org/abs/2506.14968">FEAST: A Flexible Mealtime-Assistance System Towards In-the-Wild Personalization
+</a></li>
+<li><a href="https://www.nature.com/articles/s41586-023-06419-4">Champion-level drone racing using deep reinforcement learning
+</a></li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
-<li><a href="">LINK</a></li>
-</ul>
+<li><a href="tbd">TBD</a><span style="color:blue;"> (tbd)</span></li>
+</ul> -->
 </div>
 
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 27 — Tue, Apr 28, 2026</b><br>
-<b>Topic:</b>Project Presentations I<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Project Presentations 1</b><br>
+<b>Goal: </b><i>Learn about the awesome work of your peers in the first day of final project presentations!</i><br>
 <ul>
-<li>Student presentations</li>
-</ul>
-<b>Additional Resources:</b>
-<ul>
-<li><a href="">LINK</a></li>
+<li>Presentation slides: LINK COMING SOON.</li>
 </ul>
 </div>
 
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 28 — Thu, Apr 30, 2026</b><br>
-<b>Topic:</b>Project Presentations II<br>
-<b>Goal: </b><i>(to be filled)</i><br><br>
+<b>Project Presentations 2<b><br>
+<b>Goal: </b><i>Learn about the awesome work of your peers in the first day of final project presentations!</i><br>
 <ul>
-<li>Student presentations</li>
-</ul>
-<b>Additional Resources:</b>
-<ul>
-<li><a href="">LINK</a></li>
+<li>Presentation slides: LINK COMING SOON.</li>
 </ul>
 </div>
