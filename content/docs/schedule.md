@@ -36,30 +36,30 @@ weight: 2
 
 <div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 1 — Tue, Jan 20, 2026</b><br>
-<b>Topic:</b>Introduction<br>
-<b>Goal:</b><i>(to be filled)</i><br><br>
+<b>Introduction</b><br>
+<b>Goal:</b><i>Introduce the course goals, expectations, and format.</i><br>
 <ul>
-<li>Slides:<a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK</a></li>
+<li>Slides:<a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK (coming soon)</a></li>
 </ul>
 </div>
 
 <div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 2 — Thu, Jan 22, 2026</b><br>
-<b>Topic:</b>The Paper "Draft" & Fundamentals Primer<br>
-<b>Goal:</b><i>Sign up for paper presentations and a quick review of common terms and formulations used in the robotics literature.</i><br><br>
+<b>Fundamentals Primer & The Paper "Draft"</b><br>
+<b>Goal:</b><i>Quick review of common terms and formulations in robotics literature and in-class sign up for paper presentations.</i><br>
 <ul>
-<li>Slides:<a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK</a></li>
+<li>Slides:<a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK (coming soon)</a></li>
 </ul>
 <b>Additional Resources:</b>
 <ul>
-<li><a href="https://link.springer.com/book/10.1007/978-3-540-30301-5">Springer Handbook of Robotics</a></li>
+<li><a href="https://link.springer.com/book/10.1007/978-3-540-30301-5">Springer Handbook of Robotics (TBD Chapters)</a></li>
 </ul>
 </div>
 
 <div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 3 — Tue, Jan 27, 2026</b><br>
-<b>Topic:</b>Fundamentals 1:The Needs and Opportunities of Robots<br>
-<b>Goal:</b><i>We will start with a broad perspective about opportunities for robots and research progress over a longer horizon.</i><br><br>
+<b>Fundamentals 1: The Needs and Opportunities of Robots</b><br>
+<b>Goal:</b><i>We will start with a broad perspective about opportunities for robots and research progress over a longer horizon.</i><br>
 <ul>
 <li><a href="https://ieeexplore.ieee.org/abstract/document/9080724">Collaborative Robots and Industrial Revolution 4.0 (IR 4.0)</a></li>
 <li><a href="https://ieeexplore.ieee.org/document/4141037">The Evolution of Robotics Research — From Industrial Robotics to Field and Service Robotics</a></li>
@@ -68,8 +68,8 @@ weight: 2
 
 <div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 4 — Thu, Jan 29, 2026</b><br>
-<b>Topic:</b>Fundamentals 2:Moving Your Robot & System Complexity<br>
-<b>Goal:</b><i>Robot research often involves deploying full-stack systems and inverse kinematics techniques.</i><br><br>
+<b>Fundamentals 2: Moving Your Robot & Robot Systems</b><br>
+<b>Goal:</b><i>Robot research often involves deploying full-stack systems and inverse kinematics techniques.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/1910.03135">DexPilot:Vision-Based Teleoperation of Dexterous Robotic Hand–Arm Systems</a></li>
 <li><a href="https://m.roboticsproceedings.org/rss14/p43.pdf">RelaxedIK:Real-time Synthesis of Accurate and Feasible Robot Arm Motion</a></li>
@@ -78,8 +78,8 @@ weight: 2
 
 <div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 5 — Tue, Feb 3, 2026</b><br>
-<b>Topic:</b>Fundamentals 3:Planning Motions<br>
-<b>Goal:</b><i>Review of common planning techniques and modern optimization-based approaches.</i><br><br>
+<b>Topic:</b>Fundamentals 3: Planning Motions<br>
+<b>Goal:</b><i>Review of common planning techniques and modern optimization-based approaches.</i><br>
 <ul>
 <li><a href="https://lavalle.pl/papers/Lav11b.pdf">Motion Planning:The Essentials</a></li>
 <li><a href="https://arxiv.org/abs/2205.04422">Motion Planning Around Obstacles with Convex Optimization</a></li>
