@@ -34,7 +34,7 @@
 &lt;b>Introduction&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Introduce the course goals, expectations, and format.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>Slides:&lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
@@ -42,7 +42,7 @@
 &lt;b>Fundamentals Primer &amp; The Paper "Draft"&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Quick review of common terms and formulations in robotics literature and in-class sign up for paper presentations.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>Slides:&lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
@@ -85,33 +85,33 @@
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 6 — Thu, Feb 5, 2026&lt;/b>&lt;br>
 &lt;b>Learning Primer&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Review high-level robot learning architectures and approaches.&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Review high-level robot learning architectures and approaches.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>Slides:&lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
+&lt;!-- &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
-&lt;li>&lt;a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN:An Autonomous Land Vehicle in a Neural Network&lt;/a>&lt;span style="color:blue;"> (original BC paper)&lt;/span>&lt;/li>
-&lt;/ul>
+&lt;li>&lt;a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN: An Autonomous Land Vehicle in a Neural Network&lt;/a>&lt;span style="color:blue;"> (original BC paper)&lt;/span>&lt;/li>
+&lt;/ul> -->
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 7 — Tue, Feb 10, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Learning 1:Foundations&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Review classical learning techniques including movement primitives and behavior cloning.&lt;/i>&lt;br>&lt;br>
+&lt;b>Learning 1:Foundations&lt;/b>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Review classical learning techniques including movement primitives and behavior cloning.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf">Movement Primitives&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/1805.01954">Behavioral Cloning from Observation&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
-&lt;li>&lt;a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN:An Autonomous Land Vehicle in a Neural Network&lt;/a>&lt;span style="color:blue;"> (original BC paper)&lt;/span>&lt;/li>
-&lt;li>&lt;a href="https://proceedings.neurips.cc/paper_files/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf">Generative Adversarial Imitation Learning&lt;/a>&lt;span style="color:blue;"> (another example of a historically popular learning technique)&lt;/span>&lt;/li>
+&lt;li>&lt;a href="https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf">ALVINN: An Autonomous Land Vehicle in a Neural Network&lt;/a>&lt;span style="color:blue;"> (original BC paper)&lt;/span>&lt;/li>
+&lt;li>&lt;a href="https://proceedings.neurips.cc/paper_files/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf">Generative Adversarial Imitation Learning&lt;/a>&lt;span style="color:blue;"> (another historically popular learning technique)&lt;/span>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 8 — Thu, Feb 12, 2026&lt;/b>&lt;br>
 &lt;b>Topic:&lt;/b>Learning 2:End-to-End &amp; Meta-Learning&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>End-to-end learning and early meta-learning approaches for generalization.&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>End-to-end learning and early meta-learning approaches for generalization.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://arxiv.org/abs/1504.00702">End-to-End Learning&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning&lt;/a>&lt;/li>
@@ -120,7 +120,7 @@
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 9 — Tue, Feb 17, 2026&lt;/b>&lt;br>
 &lt;b>Topic:&lt;/b>Learning 3:Intermediate Representations&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Learning with inferred reward functions and hierarchical correction.&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Learning with inferred reward functions and hierarchical correction.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf">Maximum Entropy Inverse Reinforcement Learning&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2403.12910">Yell At Your Robot&lt;/a>&lt;/li>
@@ -129,15 +129,15 @@
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 10 — Thu, Feb 19, 2026&lt;/b>&lt;br>
 &lt;b>Topic:&lt;/b>Literature Review Workshop&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Strategies for finding and evaluating robotics research.&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Strategies for finding and evaluating robotics research.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>Slides:&lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 11 — Tue, Feb 24, 2026&lt;/b>&lt;br>
 &lt;b>Topic:&lt;/b>Learning 4:The Rise of Generative Learning&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Inflection point papers in generative robotics.&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Inflection point papers in generative robotics.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2303.04137v4">Diffusion Policy&lt;/a>&lt;/li>
@@ -146,7 +146,7 @@
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 12 — Thu, Feb 26, 2026&lt;/b>&lt;br>
 &lt;b>Topic:&lt;/b>Learning 5:Practical Considerations&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Small design choices that impact learning systems.&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Small design choices that impact learning systems.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/1812.07035">Continuity of Rotation Representations&lt;/a>&lt;/li>
@@ -160,7 +160,7 @@
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 13 — Tue, Mar 3, 2026&lt;/b>&lt;br>
 &lt;b>Learning 6: Frontiers&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Recent VLAs including from industry and leveraging video models.&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Recent VLAs including from industry and leveraging video models.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://www.pi.website/download/pistar06.pdf">π∗ 0.6: a VLA That Learns From Experience&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2512.15692">mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs
@@ -172,22 +172,22 @@
 &lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 14 — Thu, Mar 5, 2026&lt;/b>&lt;br>
 &lt;b>Topic:&lt;/b>Interactive Systems Primer&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Introduce challenges and approaches for robot systems that work with people.&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Introduce challenges and approaches for robot systems that work with people.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>Slides:&lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
+&lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 15 — Tue, Mar 10, 2026&lt;/b>&lt;br>
 &lt;b>Interactive Systems 1: Teleoperation &amp; Simplifying Human Input&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Investigate lower level of autonomy systems for people to drive robot behavior.&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Investigate lower level of autonomy systems for people to drive robot behavior.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://arxiv.org/abs/2407.01512">Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 &lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2107.02907">Learning Latent Actions to Control Assistive Robots
 &lt;/a>&lt;/li>
-&lt;!-- &lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
+&lt;/ul>
+&lt;!-- &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
 &lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
 &lt;/ul> -->
@@ -195,10 +195,10 @@
 &lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 16 — Thu, Mar 12, 2026&lt;/b>&lt;br>
 &lt;b>Implement Something: Mini Presentations&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Lightning presentations of your mini implementation projects&lt;/i>&lt;br>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Lightning presentations of your mini implementation projects&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>Presentation slides: LINK COMING SOON.&lt;/li>
-&lt;!-- &lt;/ul>
+&lt;/ul>
 &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
 &lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
@@ -206,8 +206,8 @@
 &lt;/div>
 &lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 17 — Tue, Mar 17, 2026&lt;/b>&lt;br>
-&lt;b>ASYNCHRONOUS: Large Behavior Models&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>TRI has been one company leading the push on developing and evaluating foundation models for robotics. We will watch and dicuss a seminar related to their work.&lt;/i>&lt;br>&lt;br>
+&lt;b>ASYNCHRONOUS: Large Behavior Models&lt;/b>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>TRI has been one company leading the push on developing and evaluating foundation models for robotics. We will watch and dicuss a seminar related to their work.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>Watch &lt;a href="https://www.youtube.com/watch?v=TN1M6vg4CsQ">this lecture by Russ Tedrake&lt;/a> and comment on the piazza post&lt;/li>
 &lt;/ul>
@@ -219,41 +219,45 @@
 &lt;/div>
 &lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 18 — Thu, Mar 19, 2026&lt;/b>&lt;br>
-&lt;b>ASYNCHRONOUS: &lt;/b>The Trajectory of Robotics Research&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>&lt;/i>&lt;br>&lt;br>
+&lt;b>ASYNCHRONOUS: The Trajectory of Robotics Research and Human-Centered Robots&lt;/b>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>Watch &lt;a href="https://www.youtube.com/watch?v=4fDASBn7gaU">this lecture by Rodney Brooks&lt;/a> and comment on the piazza post&lt;/li>
 &lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
+&lt;!-- &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
 &lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;/ul> -->
 &lt;/div>
 &lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 19 — Tue, Mar 24, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Interactive Systems 2:Human–Robot Collaboration&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>(to be filled)&lt;/i>&lt;br>&lt;br>
+&lt;b>Interactive Systems 2: Human–Robot Collaboration&lt;/b>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Introduces methods for settings of human-robot collaboration.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>Policy Blending Formalism&lt;/li>
-&lt;li>Goal Inference Improves Objective and Perceived Performance in Human–Robot Collaboration&lt;/li>
+&lt;li>&lt;a href="https://www.ri.cmu.edu/pub_files/2013/5/assistive_teleop_IJRR.pdf">TBD A policy-blending formalism for shared control
+&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1802.01780">Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration
+&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
+&lt;!-- &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
 &lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;/ul> -->
 &lt;/div>
 &lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 20 — Thu, Mar 26, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Interactive Systems 3:Shared Autonomy&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>(to be filled)&lt;/i>&lt;br>&lt;br>
+&lt;b>Interactive Systems 3: Shared Autonomy&lt;/b>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Introduces a classical and recent generative method for shared autonomy.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>A Policy Blending Formalism&lt;/li>
-&lt;li>To the Noise and Back&lt;/li>
+&lt;li>&lt;a href="https://www.ri.cmu.edu/pub_files/2013/5/assistive_teleop_IJRR.pdf">A policy-blending formalism for shared control
+&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2302.12244">To the Noise and Back: Diffusion for Shared Autonomy
+&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
+&lt;!-- &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
 &lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;/ul> -->
 &lt;/div>
 &lt;hr>
 &lt;p>&lt;i>&lt;b>Spring Break:&lt;/b>Tue, Mar 31 &amp;amp; Thu, Apr 2 (No class)&lt;/i>&lt;/p></description></item></channel></rss>
