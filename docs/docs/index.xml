@@ -31,28 +31,28 @@
 &lt;h2 id="-module-1-fundamentals">🧭 Module 1: Fundamentals&lt;a class="anchor" href="#-module-1-fundamentals">#&lt;/a>&lt;/h2>
 &lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 1 — Tue, Jan 20, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Introduction&lt;br>
-&lt;b>Goal:&lt;/b>&lt;i>(to be filled)&lt;/i>&lt;br>&lt;br>
+&lt;b>Introduction&lt;/b>&lt;br>
+&lt;b>Goal:&lt;/b>&lt;i>Introduce the course goals, expectations, and format.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>Slides:&lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK&lt;/a>&lt;/li>
+&lt;li>Slides:&lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK (coming soon)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 2 — Thu, Jan 22, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>The Paper "Draft" &amp; Fundamentals Primer&lt;br>
-&lt;b>Goal:&lt;/b>&lt;i>Sign up for paper presentations and a quick review of common terms and formulations used in the robotics literature.&lt;/i>&lt;br>&lt;br>
+&lt;b>Fundamentals Primer &amp; The Paper "Draft"&lt;/b>&lt;br>
+&lt;b>Goal:&lt;/b>&lt;i>Quick review of common terms and formulations in robotics literature and in-class sign up for paper presentations.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>Slides:&lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK&lt;/a>&lt;/li>
+&lt;li>Slides:&lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK (coming soon)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
-&lt;li>&lt;a href="https://link.springer.com/book/10.1007/978-3-540-30301-5">Springer Handbook of Robotics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://link.springer.com/book/10.1007/978-3-540-30301-5">Springer Handbook of Robotics (TBD Chapters)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 3 — Tue, Jan 27, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Fundamentals 1:The Needs and Opportunities of Robots&lt;br>
-&lt;b>Goal:&lt;/b>&lt;i>We will start with a broad perspective about opportunities for robots and research progress over a longer horizon.&lt;/i>&lt;br>&lt;br>
+&lt;b>Fundamentals 1: The Needs and Opportunities of Robots&lt;/b>&lt;br>
+&lt;b>Goal:&lt;/b>&lt;i>We will start with a broad perspective about opportunities for robots and research progress over a longer horizon.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://ieeexplore.ieee.org/abstract/document/9080724">Collaborative Robots and Industrial Revolution 4.0 (IR 4.0)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ieeexplore.ieee.org/document/4141037">The Evolution of Robotics Research — From Industrial Robotics to Field and Service Robotics&lt;/a>&lt;/li>
@@ -60,8 +60,8 @@
 &lt;/div>
 &lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 4 — Thu, Jan 29, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Fundamentals 2:Moving Your Robot &amp; System Complexity&lt;br>
-&lt;b>Goal:&lt;/b>&lt;i>Robot research often involves deploying full-stack systems and inverse kinematics techniques.&lt;/i>&lt;br>&lt;br>
+&lt;b>Fundamentals 2: Moving Your Robot &amp; Robot Systems&lt;/b>&lt;br>
+&lt;b>Goal:&lt;/b>&lt;i>Robot research often involves deploying full-stack systems and inverse kinematics techniques.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://arxiv.org/abs/1910.03135">DexPilot:Vision-Based Teleoperation of Dexterous Robotic Hand–Arm Systems&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://m.roboticsproceedings.org/rss14/p43.pdf">RelaxedIK:Real-time Synthesis of Accurate and Feasible Robot Arm Motion&lt;/a>&lt;/li>
@@ -69,8 +69,8 @@
 &lt;/div>
 &lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 5 — Tue, Feb 3, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Fundamentals 3:Planning Motions&lt;br>
-&lt;b>Goal:&lt;/b>&lt;i>Review of common planning techniques and modern optimization-based approaches.&lt;/i>&lt;br>&lt;br>
+&lt;b>Topic:&lt;/b>Fundamentals 3: Planning Motions&lt;br>
+&lt;b>Goal:&lt;/b>&lt;i>Review of common planning techniques and modern optimization-based approaches.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://lavalle.pl/papers/Lav11b.pdf">Motion Planning:The Essentials&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2205.04422">Motion Planning Around Obstacles with Convex Optimization&lt;/a>&lt;/li>
