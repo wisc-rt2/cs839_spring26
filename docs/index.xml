@@ -7,26 +7,6 @@
 &lt;br>
 &lt;a href="https://docs.google.com/document/d/1ncjARaYHnS25ipveq-fiLE0iYkx4hVqF/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true">Link to syllabus.&lt;/a></description></item><item><title>Schedule</title><link>https://wisc-rt2.github.io/cs839_spring26/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring26/docs/schedule/</guid><description>&lt;h1 id="schedule">Schedule&lt;a class="anchor" href="#schedule">#&lt;/a>&lt;/h1>
 &lt;p>&lt;i>Note:The schedule below is tentative and subject to change.&lt;/i>&lt;/p>
-&lt;h2 id="important-links-assignment-related">Important Links (Assignment Related)&lt;a class="anchor" href="#important-links-assignment-related">#&lt;/a>&lt;/h2>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Paper Presentations&lt;/b>&lt;br>
-&lt;ul>
-&lt;li>Google Slides Template: &lt;a href="https://docs.google.com/presentation/d/1cWYjXQWzqkfnhhN8FrIJJ6lXDHJU-O5sqEjwT0tR4Ww/edit?usp=sharing">LINK&lt;/a>&lt;/li>
-&lt;li>Due by 5pm the day before your presentation (Piazza post with slides and discussion topics).&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>'Implement Something' Assignment / Presentation&lt;/b>&lt;br>
-&lt;ul>
-&lt;li>Details coming soon.&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
-&lt;b>Final Project&lt;/b>&lt;br>
-&lt;ul>
-&lt;li>Details coming soon.&lt;/li>
-&lt;/ul>
-&lt;/div>
 &lt;hr>
 &lt;h2 id="-module-1-fundamentals">🧭 Module 1: Fundamentals&lt;a class="anchor" href="#-module-1-fundamentals">#&lt;/a>&lt;/h2>
 &lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
@@ -110,7 +90,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 8 — Thu, Feb 12, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Learning 2:End-to-End &amp; Meta-Learning&lt;br>
+&lt;b>Learning 2:End-to-End &amp; Meta-Learning&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>End-to-end learning and early meta-learning approaches for generalization.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://arxiv.org/abs/1504.00702">End-to-End Learning&lt;/a>&lt;/li>
@@ -119,7 +99,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 9 — Tue, Feb 17, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Learning 3:Intermediate Representations&lt;br>
+&lt;b>Learning 3:Intermediate Representations&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Learning with inferred reward functions and hierarchical correction.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf">Maximum Entropy Inverse Reinforcement Learning&lt;/a>&lt;/li>
@@ -128,7 +108,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 10 — Thu, Feb 19, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Literature Review Workshop&lt;br>
+&lt;b>Literature Review Workshop&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Strategies for finding and evaluating robotics research.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
@@ -136,7 +116,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 11 — Tue, Feb 24, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Learning 4:The Rise of Generative Learning&lt;br>
+&lt;b>Learning 4:The Rise of Generative Learning&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Inflection point papers in generative robotics.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say&lt;/a>&lt;/li>
@@ -145,7 +125,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 12 — Thu, Feb 26, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Learning 5:Practical Considerations&lt;br>
+&lt;b>Learning 5:Practical Considerations&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Small design choices that impact learning systems.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data&lt;/a>&lt;/li>
@@ -171,7 +151,7 @@
 &lt;h2 id="-module-3-interactive-systems">🧠 Module 3: Interactive Systems&lt;a class="anchor" href="#-module-3-interactive-systems">#&lt;/a>&lt;/h2>
 &lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 14 — Thu, Mar 5, 2026&lt;/b>&lt;br>
-&lt;b>Topic:&lt;/b>Interactive Systems Primer&lt;br>
+&lt;b>Interactive Systems Primer&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Introduce challenges and approaches for robot systems that work with people.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
@@ -199,7 +179,7 @@
 &lt;ul>
 &lt;li>Presentation slides: LINK COMING SOON.&lt;/li>
 &lt;/ul>
-&lt;b>Additional Resources:&lt;/b>
+&lt;!-- &lt;b>Additional Resources:&lt;/b>
 &lt;ul>
 &lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
 &lt;/ul> -->
@@ -234,7 +214,7 @@
 &lt;b>Interactive Systems 2: Human–Robot Collaboration&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Introduces methods for settings of human-robot collaboration.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>&lt;a href="https://www.ri.cmu.edu/pub_files/2013/5/assistive_teleop_IJRR.pdf">TBD A policy-blending formalism for shared control
+&lt;li>&lt;a href="https://ieeexplore.ieee.org/abstract/document/10301659">An Ergo-Interactive Framework for Human-Robot Collaboration Via Learning From Demonstration
 &lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/1802.01780">Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration
 &lt;/a>&lt;/li>
@@ -260,4 +240,24 @@
 &lt;/ul> -->
 &lt;/div>
 &lt;hr>
-&lt;p>&lt;i>&lt;b>Spring Break:&lt;/b>Tue, Mar 31 &amp;amp; Thu, Apr 2 (No class)&lt;/i>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;i>&lt;b>Spring Break:&lt;/b>Tue, Mar 31 &amp;amp; Thu, Apr 2 (No class)&lt;/i>&lt;/p></description></item><item><title>Assignments</title><link>https://wisc-rt2.github.io/cs839_spring26/docs/assignments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs839_spring26/docs/assignments/</guid><description>&lt;h1 id="assignment-details-and-links">Assignment Details (and links)&lt;a class="anchor" href="#assignment-details-and-links">#&lt;/a>&lt;/h1>
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
+&lt;b>Paper Presentations&lt;/b>&lt;br>
+&lt;ul>
+&lt;li>Google Slides Template: &lt;a href="https://docs.google.com/presentation/d/1cWYjXQWzqkfnhhN8FrIJJ6lXDHJU-O5sqEjwT0tR4Ww/edit?usp=sharing">LINK&lt;/a>&lt;/li>
+&lt;li>Due by 5pm the day before your presentation (Piazza post with slides and discussion topics).&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
+&lt;b>'Implement Something' Assignment / Presentation&lt;/b>&lt;br>
+&lt;ul>
+&lt;li>Details coming soon.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
+&lt;b>Final Project&lt;/b>&lt;br>
+&lt;ul>
+&lt;li>Details coming soon.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;hr></description></item></channel></rss>
