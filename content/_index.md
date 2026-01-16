@@ -6,7 +6,7 @@
 
 ## Information
 
-- **Time:** Tuesdays and Thursdays from 8:00 AM – 9:16 AM
+- **Time:** Tuesdays and Thursdays from 8:00 AM – 9:15 AM
 - **Location:** Morgridge Hall, Room 2538
 - **Instructor:** Mike Hagenow (mhagenow@wisc.edu)
 - **Instructor Office Hours:** Thursdays at 9:15 AM – 10:30 AM

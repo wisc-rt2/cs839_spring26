@@ -28,7 +28,7 @@ weight: 2
 </ul>
 <b>Additional Resources:</b>
 <ul>
-<li><a href="https://link.springer.com/book/10.1007/978-3-540-30301-5">Springer Handbook of Robotics (TBD Chapters)</a></li>
+<li><a href="https://link.springer.com/book/10.1007/978-3-540-30301-5">Springer Handbook of Robotics (Chapters TBD)</a></li>
 </ul>
 </div>
 
@@ -47,8 +47,8 @@ weight: 2
 <b>Fundamentals 2: Moving Your Robot & Robot Systems</b><br>
 <b>Goal: </b><i>Robot research often involves deploying full-stack systems and inverse kinematics techniques.</i><br>
 <ul>
-<li><a href="https://arxiv.org/abs/1910.03135">DexPilot:Vision-Based Teleoperation of Dexterous Robotic Hand–Arm Systems</a></li>
-<li><a href="https://m.roboticsproceedings.org/rss14/p43.pdf">RelaxedIK:Real-time Synthesis of Accurate and Feasible Robot Arm Motion</a></li>
+<li><a href="https://arxiv.org/abs/1910.03135">DexPilot: Vision-Based Teleoperation of Dexterous Robotic Hand–Arm Systems</a></li>
+<li><a href="https://m.roboticsproceedings.org/rss14/p43.pdf">RelaxedIK: Real-time Synthesis of Accurate and Feasible Robot Arm Motion</a></li>
 </ul>
 </div>
 
@@ -57,7 +57,7 @@ weight: 2
 <b>Fundamentals 3: Planning Motions</b><br>
 <b>Goal: </b><i>Review of common planning techniques and modern optimization-based approaches.</i><br>
 <ul>
-<li><a href="https://lavalle.pl/papers/Lav11b.pdf">Motion Planning:The Essentials</a></li>
+<li><a href="https://lavalle.pl/papers/Lav11b.pdf">Motion Planning: The Essentials</a></li>
 <li><a href="https://arxiv.org/abs/2205.04422">Motion Planning Around Obstacles with Convex Optimization</a></li>
 </ul>
 <b>Additional Resources:</b>
@@ -132,8 +132,8 @@ weight: 2
 <b>Learning 4:The Rise of Generative Learning</b><br>
 <b>Goal: </b><i>Inflection point papers in generative robotics.</i><br>
 <ul>
-<li><a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say</a></li>
-<li><a href="https://arxiv.org/abs/2303.04137v4">Diffusion Policy</a></li>
+<li><a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say: Grounding Language in Robotic Affordances</a></li>
+<li><a href="https://arxiv.org/abs/2303.04137v4">Diffusion Policy: Visuomotor Policy Learning via Action Diffusion</a></li>
 </ul>
 </div>
 
@@ -173,6 +173,11 @@ weight: 2
 <b>Goal: </b><i>Introduce challenges and approaches for robot systems that work with people.</i><br>
 <ul>
 <li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+</ul>
+<b>Additional Resources:</b>
+<ul>
+<li><a href="https://dl.acm.org/doi/10.1145/3412374">A Primer for Conducting Experiments in Human–Robot Interaction
+</a><span style="color:blue;"> (advice for structuring HRI experiments)</span></li>
 </ul>
 </div>
 
@@ -377,15 +382,15 @@ weight: 2
 <b>Project Presentations 1</b><br>
 <b>Goal: </b><i>Learn about the awesome work of your peers in the first day of final project presentations!</i><br>
 <ul>
-<li>Presentation slides: LINK COMING SOON.</li>
+<li>Presentation slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a>.</li>
 </ul>
 </div>
 
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 28 — Thu, Apr 30, 2026</b><br>
-<b>Project Presentations 2<b><br>
+<b>Project Presentations 2</b><br>
 <b>Goal: </b><i>Learn about the awesome work of your peers in the first day of final project presentations!</i><br>
 <ul>
-<li>Presentation slides: LINK COMING SOON.</li>
+<li>Presentation slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a>.</li>
 </ul>
 </div>
