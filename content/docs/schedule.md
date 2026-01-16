@@ -37,8 +37,8 @@ weight: 2
 <b>Fundamentals 1: The Needs and Opportunities of Robots</b><br>
 <b>Goal: </b><i>We will start with a broad perspective about opportunities for robots and research progress over a longer horizon.</i><br>
 <ul>
-<li><a href="https://ieeexplore.ieee.org/abstract/document/9080724">Collaborative Robots and Industrial Revolution 4.0 (IR 4.0)</a></li>
 <li><a href="https://ieeexplore.ieee.org/document/4141037">The Evolution of Robotics Research — From Industrial Robotics to Field and Service Robotics</a></li>
+<li><a href="https://ieeexplore.ieee.org/abstract/document/9080724">Collaborative Robots and Industrial Revolution 4.0 (IR 4.0)</a></li>
 </ul>
 </div>
 
@@ -88,7 +88,7 @@ weight: 2
 <b>Learning 1:Foundations</b><br>
 <b>Goal: </b><i>Review classical learning techniques including movement primitives and behavior cloning.</i><br>
 <ul>
-<li><a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf">Movement Primitives</a></li>
+<li><a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf">Dynamical Movement Primitives: Learning Attractor Models for Motor Behaviors</a></li>
 <li><a href="https://arxiv.org/abs/1805.01954">Behavioral Cloning from Observation</a></li>
 </ul>
 <b>Additional Resources:</b>
@@ -101,27 +101,27 @@ weight: 2
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 8 — Thu, Feb 12, 2026</b><br>
 <b>Learning 2:End-to-End & Meta-Learning</b><br>
-<b>Goal: </b><i>End-to-end learning and early meta-learning approaches for generalization.</i><br>
+<b>Goal: </b><i>Review impactful works enabling end-to-end learning and meta-learning approaches.</i><br>
 <ul>
-<li><a href="https://arxiv.org/abs/1504.00702">End-to-End Learning</a></li>
-<li><a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning</a></li>
+<li><a href="https://arxiv.org/abs/1504.00702">End-to-End Training of Deep Visuomotor Policies</a></li>
+<li><a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a></li>
 </ul>
 </div>
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 9 — Tue, Feb 17, 2026</b><br>
 <b>Learning 3:Intermediate Representations</b><br>
-<b>Goal: </b><i>Learning with inferred reward functions and hierarchical correction.</i><br>
+<b>Goal: </b><i>Explore learning with inferred reward functions and hierarchical correction.</i><br>
 <ul>
 <li><a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf">Maximum Entropy Inverse Reinforcement Learning</a></li>
-<li><a href="https://arxiv.org/abs/2403.12910">Yell At Your Robot</a></li>
+<li><a href="https://arxiv.org/abs/2403.12910">Yell At Your Robot: Improving On-the-Fly from Language Corrections</a></li>
 </ul>
 </div>
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 10 — Thu, Feb 19, 2026</b><br>
 <b>Literature Review Workshop</b><br>
-<b>Goal: </b><i>Strategies for finding and evaluating robotics research.</i><br>
+<b>Goal: </b><i>Discuss and explore strategies for finding and evaluating robotics research.</i><br>
 <ul>
 <li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
 </ul>
@@ -130,7 +130,7 @@ weight: 2
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 11 — Tue, Feb 24, 2026</b><br>
 <b>Learning 4:The Rise of Generative Learning</b><br>
-<b>Goal: </b><i>Inflection point papers in generative robotics.</i><br>
+<b>Goal: </b><i>Discuss a recent inflection point in generative robotic capabilities.</i><br>
 <ul>
 <li><a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say: Grounding Language in Robotic Affordances</a></li>
 <li><a href="https://arxiv.org/abs/2303.04137v4">Diffusion Policy: Visuomotor Policy Learning via Action Diffusion</a></li>
@@ -140,7 +140,7 @@ weight: 2
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 12 — Thu, Feb 26, 2026</b><br>
 <b>Learning 5:Practical Considerations</b><br>
-<b>Goal: </b><i>Small design choices that impact learning systems.</i><br>
+<b>Goal: </b><i>Look at small design choices that impact learning systems.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data</a></li>
 <li><a href="https://arxiv.org/abs/1812.07035">Continuity of Rotation Representations</a></li>
@@ -155,7 +155,7 @@ weight: 2
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 13 — Tue, Mar 3, 2026</b><br>
 <b>Learning 6: Frontiers</b><br>
-<b>Goal: </b><i>Recent VLAs including from industry and leveraging video models.</i><br>
+<b>Goal: </b><i>Look at recent VLAs, including an industry model and an emerging video model.</i><br>
 <ul>
 <li><a href="https://www.pi.website/download/pistar06.pdf">π∗ 0.6: a VLA That Learns From Experience</a></li>
 <li><a href="https://arxiv.org/abs/2512.15692">mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs
@@ -231,10 +231,10 @@ weight: 2
 <ul>
 <li>Watch <a href="https://www.youtube.com/watch?v=4fDASBn7gaU">this lecture by Rodney Brooks</a> and comment on the piazza post</li>
 </ul>
-<!-- <b>Additional Resources:</b>
+<b>Additional Resources:</b>
 <ul>
-<li><a href="">LINK</a></li>
-</ul> -->
+<li><a href="http://rodneybrooks.com/predictions-scorecard-2026-january-01/">Rodney Brooks Prediction Scorecard</a><span style="color:blue;"> (yearly assessment of AV/Robotics Progress and outlook)</span></li>
+</ul>
 </div>
 
 <div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
@@ -347,13 +347,12 @@ weight: 2
 
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 25 — Tue, Apr 21, 2026</b><br>
-<b>Applications 2: Humanoids and Quadrapeds</b><br>
+<b>Applications 2: Quadrapeds and Humanoids</b><br>
 <b>Goal: </b><i>(to be filled)</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2208.07860">A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning
 </a></li>
-<li><a href="https://ieeexplore.ieee.org/abstract/document/7742315">Ocean One: A Robotic Avatar for Oceanic Discovery
-</a></li>
+<li><a href="https://ieeexplore.ieee.org/abstract/document/7363436">No falls, no resets: Reliable humanoid behavior in the DARPA robotics challenge</a></li>
 </ul>
 <!-- <b>Additional Resources:</b>
 <ul>
