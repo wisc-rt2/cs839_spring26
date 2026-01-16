@@ -34,8 +34,8 @@
 &lt;b>Fundamentals 1: The Needs and Opportunities of Robots&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>We will start with a broad perspective about opportunities for robots and research progress over a longer horizon.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>&lt;a href="https://ieeexplore.ieee.org/abstract/document/9080724">Collaborative Robots and Industrial Revolution 4.0 (IR 4.0)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ieeexplore.ieee.org/document/4141037">The Evolution of Robotics Research — From Industrial Robotics to Field and Service Robotics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ieeexplore.ieee.org/abstract/document/9080724">Collaborative Robots and Industrial Revolution 4.0 (IR 4.0)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
@@ -79,7 +79,7 @@
 &lt;b>Learning 1:Foundations&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Review classical learning techniques including movement primitives and behavior cloning.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>&lt;a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf">Movement Primitives&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf">Dynamical Movement Primitives: Learning Attractor Models for Motor Behaviors&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/1805.01954">Behavioral Cloning from Observation&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;b>Additional Resources:&lt;/b>
@@ -91,25 +91,25 @@
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 8 — Thu, Feb 12, 2026&lt;/b>&lt;br>
 &lt;b>Learning 2:End-to-End &amp; Meta-Learning&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>End-to-end learning and early meta-learning approaches for generalization.&lt;/i>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Review impactful works enabling end-to-end learning and meta-learning approaches.&lt;/i>&lt;br>
 &lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/abs/1504.00702">End-to-End Learning&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1504.00702">End-to-End Training of Deep Visuomotor Policies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 9 — Tue, Feb 17, 2026&lt;/b>&lt;br>
 &lt;b>Learning 3:Intermediate Representations&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Learning with inferred reward functions and hierarchical correction.&lt;/i>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Explore learning with inferred reward functions and hierarchical correction.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf">Maximum Entropy Inverse Reinforcement Learning&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2403.12910">Yell At Your Robot&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2403.12910">Yell At Your Robot: Improving On-the-Fly from Language Corrections&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 10 — Thu, Feb 19, 2026&lt;/b>&lt;br>
 &lt;b>Literature Review Workshop&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Strategies for finding and evaluating robotics research.&lt;/i>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Discuss and explore strategies for finding and evaluating robotics research.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>Slides: &lt;a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)&lt;/a>&lt;/li>
 &lt;/ul>
@@ -117,7 +117,7 @@
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 11 — Tue, Feb 24, 2026&lt;/b>&lt;br>
 &lt;b>Learning 4:The Rise of Generative Learning&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Inflection point papers in generative robotics.&lt;/i>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Discuss a recent inflection point in generative robotic capabilities.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say: Grounding Language in Robotic Affordances&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2303.04137v4">Diffusion Policy: Visuomotor Policy Learning via Action Diffusion&lt;/a>&lt;/li>
@@ -126,7 +126,7 @@
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 12 — Thu, Feb 26, 2026&lt;/b>&lt;br>
 &lt;b>Learning 5:Practical Considerations&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Small design choices that impact learning systems.&lt;/i>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Look at small design choices that impact learning systems.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/1812.07035">Continuity of Rotation Representations&lt;/a>&lt;/li>
@@ -140,7 +140,7 @@
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 13 — Tue, Mar 3, 2026&lt;/b>&lt;br>
 &lt;b>Learning 6: Frontiers&lt;/b>&lt;br>
-&lt;b>Goal: &lt;/b>&lt;i>Recent VLAs including from industry and leveraging video models.&lt;/i>&lt;br>
+&lt;b>Goal: &lt;/b>&lt;i>Look at recent VLAs, including an industry model and an emerging video model.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://www.pi.website/download/pistar06.pdf">π∗ 0.6: a VLA That Learns From Experience&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2512.15692">mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs
@@ -209,10 +209,10 @@
 &lt;ul>
 &lt;li>Watch &lt;a href="https://www.youtube.com/watch?v=4fDASBn7gaU">this lecture by Rodney Brooks&lt;/a> and comment on the piazza post&lt;/li>
 &lt;/ul>
-&lt;!-- &lt;b>Additional Resources:&lt;/b>
+&lt;b>Additional Resources:&lt;/b>
 &lt;ul>
-&lt;li>&lt;a href="">LINK&lt;/a>&lt;/li>
-&lt;/ul> -->
+&lt;li>&lt;a href="http://rodneybrooks.com/predictions-scorecard-2026-january-01/">Rodney Brooks Prediction Scorecard&lt;/a>&lt;span style="color:blue;"> (yearly assessment of AV/Robotics Progress and outlook)&lt;/span>&lt;/li>
+&lt;/ul>
 &lt;/div>
 &lt;div style="border:2px solid #16a085;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 19 — Tue, Mar 24, 2026&lt;/b>&lt;br>
