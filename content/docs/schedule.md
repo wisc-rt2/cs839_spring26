@@ -280,7 +280,7 @@ weight: 2
 <div style="border:2px solid #e67e22;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 21 — Tue, Apr 7, 2026</b><br>
 <b>Interactive Systems 4: Minimizing User Input</b><br>
-<b>Goal: </b><i>(to be filled)</i><br>
+<b>Goal: </b><i>Look at systems that try to strategically and sparingly use human input to reduce uncertainty.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/1910.04365">Asking Easy Questions: A User-Friendly Approach to Active Reward Learning
 </a></li>
@@ -296,7 +296,7 @@ weight: 2
 <div style="border:2px solid #e67e22;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 22 — Thu, Apr 9, 2026</b><br>
 <b>Simulation & Sim-to-Real</b><br>
-<b>Goal: </b><i>(to be filled)</i><br>
+<b>Goal: </b><i>Investigate the roal of simulation in robot learning.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2511.04831">Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning
 </a></li>
@@ -312,7 +312,7 @@ weight: 2
 <div style="border:2px solid #e67e22;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 23 — Tue, Apr 14, 2026</b><br>
 <b>Safety in Robotics</b><br>
-<b>Goal: </b><i>(to be filled)</i><br>
+<b>Goal: </b><i>Explore definitions and techniques for enforcing safety.</i><br>
 <ul>
 <li><a href="https://dl.acm.org/doi/abs/10.1145/3610977.3635002">Enhancing Safety in Learning from Demonstration Algorithms via Control Barrier Function Shielding
 </a></li>
@@ -332,7 +332,7 @@ weight: 2
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 24 — Thu, Apr 16, 2026</b><br>
 <b>Applications 1: Mobile and Marine Robotics</b><br>
-<b>Goal: </b><i>(to be filled)</i><br>
+<b>Goal: </b><i>Look at examples of robot platforms that can explore.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2402.13817">Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments
 </a></li>
@@ -348,7 +348,7 @@ weight: 2
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 25 — Tue, Apr 21, 2026</b><br>
 <b>Applications 2: Quadrapeds and Humanoids</b><br>
-<b>Goal: </b><i>(to be filled)</i><br>
+<b>Goal: </b><i>Look at examples of legged robot platforms.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2208.07860">A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning
 </a></li>
@@ -363,7 +363,7 @@ weight: 2
 <div style="border:2px solid #d35400;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 26 — Thu, Apr 23, 2026</b><br>
 <b>Applications 3: Assistive Robots and UAVs</b><br>
-<b>Goal: </b><i>(to be filled)</i><br>
+<b>Goal: </b><i>Look at a final set of popular robot applications.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2506.14968">FEAST: A Flexible Mealtime-Assistance System Towards In-the-Wild Personalization
 </a></li>
