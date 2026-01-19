@@ -15,7 +15,7 @@ weight: 2
 <b>Introduction</b><br>
 <b>Goal: </b><i>Introduce the course goals, expectations, and format.</i><br>
 <ul>
-<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://drive.google.com/file/d/1K3uRh_A4h-8bVBfEjeVWWlC0mLhdeje3/view?usp=sharing">LINK TO SLIDES</a></li>
 </ul>
 </div>
 
