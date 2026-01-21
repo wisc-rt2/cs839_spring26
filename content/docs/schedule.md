@@ -26,10 +26,10 @@ weight: 2
 <ul>
 <li>Slides: <a href="https://drive.google.com/file/d/1K3uRh_A4h-8bVBfEjeVWWlC0mLhdeje3/view?usp=sharing">LINK TO SLIDES</a></li>
 </ul>
-<b>Additional Resources:</b>
+<!-- <b>Additional Resources:</b>
 <ul>
 <li><a href="https://link.springer.com/book/10.1007/978-3-540-30301-5">Springer Handbook of Robotics (Chapters TBD)</a></li>
-</ul>
+</ul> -->
 </div>
 
 <div style="border:2px solid #0077cc;border-radius:10px;padding:10px;margin:10px 0;">
