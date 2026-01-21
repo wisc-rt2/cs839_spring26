@@ -24,7 +24,7 @@ weight: 2
 <b>Fundamentals Primer & The Paper "Draft"</b><br>
 <b>Goal: </b><i>Quick review of common terms and formulations in robotics literature and in-class sign up for paper presentations.</i><br>
 <ul>
-<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://drive.google.com/file/d/1K3uRh_A4h-8bVBfEjeVWWlC0mLhdeje3/view?usp=sharing">LINK TO SLIDES</a></li>
 </ul>
 <b>Additional Resources:</b>
 <ul>
