@@ -75,7 +75,7 @@ weight: 2
 <b>Learning Primer</b><br>
 <b>Goal: </b><i>Review high-level robot learning architectures and approaches.</i><br>
 <ul>
-<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://drive.google.com/file/d/1pnC04U0BNRjdLn0U-mKH0MyFOsjvCuKk/view?usp=sharing">LINK TO SLIDES</a></li>
 </ul>
 <!-- <b>Additional Resources:</b>
 <ul>
