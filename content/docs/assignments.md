@@ -31,7 +31,7 @@ weight: 3
 <li>Project Proposal due <i>3/26 by 5pm</i>.
 <li>Slides due <i>4/27 by 5pm</i>.
 <li>Final Report/Website due <i>5/6 by 5pm</i>. 
-<li>Detailed instructions and rubrics coming soon.</li>
+<li>Instructions and Rubric: <a href="https://drive.google.com/file/d/1yRyIQ1O_wpCienzzBQ_Da_PK5QVkjZks/view?usp=sharing">LINK</a>.</li>
 </ul>
 </div>
 

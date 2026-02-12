@@ -85,7 +85,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 7 — Tue, Feb 10, 2026</b><br>
-<b>Learning 1:Foundations</b><br>
+<b>Learning 1: Foundations</b><br>
 <b>Goal: </b><i>Review classical learning techniques including movement primitives and behavior cloning.</i><br>
 <ul>
 <li><a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf">Dynamical Movement Primitives: Learning Attractor Models for Motor Behaviors</a></li>
@@ -100,7 +100,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 8 — Thu, Feb 12, 2026</b><br>
-<b>Learning 2:End-to-End & Meta-Learning</b><br>
+<b>Learning 2: End-to-End & Meta-Learning</b><br>
 <b>Goal: </b><i>Review impactful works enabling end-to-end learning and meta-learning approaches.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/1504.00702">End-to-End Training of Deep Visuomotor Policies</a></li>
@@ -110,7 +110,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 9 — Tue, Feb 17, 2026</b><br>
-<b>Learning 3:Intermediate Representations</b><br>
+<b>Learning 3: Intermediate Representations</b><br>
 <b>Goal: </b><i>Explore learning with inferred reward functions and hierarchical correction.</i><br>
 <ul>
 <li><a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf">Maximum Entropy Inverse Reinforcement Learning</a></li>
@@ -129,7 +129,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 11 — Tue, Feb 24, 2026</b><br>
-<b>Learning 4:The Rise of Generative Learning</b><br>
+<b>Learning 4: The Rise of Generative Learning</b><br>
 <b>Goal: </b><i>Discuss a recent inflection point in generative robotic capabilities.</i><br>
 <ul>
 <li><a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say: Grounding Language in Robotic Affordances</a></li>
@@ -139,7 +139,7 @@ weight: 2
 
 <div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 12 — Thu, Feb 26, 2026</b><br>
-<b>Learning 5:Practical Considerations</b><br>
+<b>Learning 5: Practical Considerations</b><br>
 <b>Goal: </b><i>Look at small design choices that impact learning systems.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data</a></li>
