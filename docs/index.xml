@@ -76,7 +76,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 7 — Tue, Feb 10, 2026&lt;/b>&lt;br>
-&lt;b>Learning 1:Foundations&lt;/b>&lt;br>
+&lt;b>Learning 1: Foundations&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Review classical learning techniques including movement primitives and behavior cloning.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/7874487/NECO_a_00393.pdf">Dynamical Movement Primitives: Learning Attractor Models for Motor Behaviors&lt;/a>&lt;/li>
@@ -90,7 +90,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 8 — Thu, Feb 12, 2026&lt;/b>&lt;br>
-&lt;b>Learning 2:End-to-End &amp; Meta-Learning&lt;/b>&lt;br>
+&lt;b>Learning 2: End-to-End &amp; Meta-Learning&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Review impactful works enabling end-to-end learning and meta-learning approaches.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://arxiv.org/abs/1504.00702">End-to-End Training of Deep Visuomotor Policies&lt;/a>&lt;/li>
@@ -99,7 +99,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 9 — Tue, Feb 17, 2026&lt;/b>&lt;br>
-&lt;b>Learning 3:Intermediate Representations&lt;/b>&lt;br>
+&lt;b>Learning 3: Intermediate Representations&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Explore learning with inferred reward functions and hierarchical correction.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf">Maximum Entropy Inverse Reinforcement Learning&lt;/a>&lt;/li>
@@ -116,7 +116,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 11 — Tue, Feb 24, 2026&lt;/b>&lt;br>
-&lt;b>Learning 4:The Rise of Generative Learning&lt;/b>&lt;br>
+&lt;b>Learning 4: The Rise of Generative Learning&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Discuss a recent inflection point in generative robotic capabilities.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://say-can.github.io/assets/palm_saycan.pdf">Do As I Can, Not As I Say: Grounding Language in Robotic Affordances&lt;/a>&lt;/li>
@@ -125,7 +125,7 @@
 &lt;/div>
 &lt;div style="border:2px solid #9b59b6;border-radius:10px;padding:10px;margin:10px 0;">
 &lt;b>Class 12 — Thu, Feb 26, 2026&lt;/b>&lt;br>
-&lt;b>Learning 5:Practical Considerations&lt;/b>&lt;br>
+&lt;b>Learning 5: Practical Considerations&lt;/b>&lt;br>
 &lt;b>Goal: &lt;/b>&lt;i>Look at small design choices that impact learning systems.&lt;/i>&lt;br>
 &lt;ul>
 &lt;li>&lt;a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data&lt;/a>&lt;/li>
@@ -270,7 +270,7 @@
 &lt;li>Project Proposal due &lt;i>3/26 by 5pm&lt;/i>.
 &lt;li>Slides due &lt;i>4/27 by 5pm&lt;/i>.
 &lt;li>Final Report/Website due &lt;i>5/6 by 5pm&lt;/i>. 
-&lt;li>Detailed instructions and rubrics coming soon.&lt;/li>
+&lt;li>Instructions and Rubric: &lt;a href="https://drive.google.com/file/d/1yRyIQ1O_wpCienzzBQ_Da_PK5QVkjZks/view?usp=sharing">LINK&lt;/a>.&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;hr></description></item></channel></rss>
