@@ -143,7 +143,7 @@ weight: 2
 <b>Goal: </b><i>Look at small design choices that impact learning systems.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2108.03298">What Matters in Learning from Offline Data</a></li>
-<li><a href="https://arxiv.org/abs/1812.07035">Continuity of Rotation Representations</a></li>
+<li><a href="https://arxiv.org/abs/1812.07035">Continuity of Rotation Representations </a><span style="color: red;">[OPTIONAL]</span></li>
 </ul>
 <b>Additional Resources:</b>
 <ul>
