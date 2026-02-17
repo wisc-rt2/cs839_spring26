@@ -123,7 +123,7 @@ weight: 2
 <b>Literature Review Workshop</b><br>
 <b>Goal: </b><i>Discuss and explore strategies for finding and evaluating robotics research.</i><br>
 <ul>
-<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://drive.google.com/file/d/1TkKPSqObtneDWpg5yEtnzPyCCP1hY6mK/view?usp=sharing">LINK TO SLIDES</a></li>
 </ul>
 </div>
 
