@@ -172,7 +172,7 @@ weight: 2
 <b>Interactive Systems Primer</b><br>
 <b>Goal: </b><i>Introduce challenges and approaches for robot systems that work with people.</i><br>
 <ul>
-<li>Slides: <a href="https://wisc-rt2.github.io/cs839_spring26/docs/schedule/">LINK TO SLIDES (coming soon)</a></li>
+<li>Slides: <a href="https://drive.google.com/file/d/1nxTpv-cNiseMorgd0_0vkBPbzrTnHQJf/view?usp=sharing">LINK TO SLIDES</a></li>
 </ul>
 <b>Additional Resources:</b>
 <ul>
