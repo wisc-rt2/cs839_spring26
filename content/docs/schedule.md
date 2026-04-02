@@ -275,8 +275,6 @@ weight: 2
 
 ---
 
-## 🧪 Module 4: Simulation & Safety
-
 <div style="border:2px solid #e67e22;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 21 — Tue, Apr 7, 2026</b><br>
 <b>Interactive Systems 4: Minimizing User Input</b><br>
@@ -293,13 +291,17 @@ weight: 2
 </ul>
 </div>
 
+---
+
+## 🧪 Module 4: Simulation & Safety
+
 <div style="border:2px solid #e67e22;border-radius:10px;padding:10px;margin:10px 0;">
 <b>Class 22 — Thu, Apr 9, 2026</b><br>
 <b>Simulation & Sim-to-Real</b><br>
 <b>Goal: </b><i>Investigate the roal of simulation in robot learning.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2511.04831">Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning
-</a></li>
+</a> <b style="color: red;">(only sections 1-3)</b></li>
 <li><a href="https://www.roboticsproceedings.org/rss20/p015.pdf">Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation
 </a></li>
 </ul>
