@@ -301,7 +301,7 @@ weight: 2
 <b>Goal: </b><i>Investigate the roal of simulation in robot learning.</i><br>
 <ul>
 <li><a href="https://arxiv.org/abs/2511.04831">Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning
-</a> <b style="color: red;">(only sections 1-3)</b></li>
+</a> <br><b style="color: red;">[only sections 1-3]</b></li>
 <li><a href="https://www.roboticsproceedings.org/rss20/p015.pdf">Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation
 </a></li>
 </ul>
